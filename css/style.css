@@ -372,6 +372,13 @@ https://templatemo.com/tm-516-known
     }
   }
 
+  @media (max-width: 768px) {
+    .col-custom{
+      width: 50%;
+      float: left;
+    }
+  }
+
   .home-slider .caption {
     display: flex;
     justify-content: center;
