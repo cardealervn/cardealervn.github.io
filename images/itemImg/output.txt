@@ -1,0 +1,17 @@
+
+
+
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL1.jpg",
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL2.jpg",
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL3.jpg",
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL4.jpg",
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL5.jpg",
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL6.jpg",
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL7.jpg",
+"images/itemImg/KIA CARNIVAL/KIA CARNIVAL8.jpg",
+
+
+
+
+
+

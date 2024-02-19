@@ -1,0 +1,205 @@
+{
+    "items": [
+        {
+            "id": 1, 
+            "name": "Mazda CX8 2023",
+            "price": 384000000,
+            "imageLink": "images/itemImg/Mazda CX8 2023/Mazda CX8 20231.jpg",
+            "imagePath": [
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20231.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20232.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20233.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20234.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20235.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20236.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20237.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20238.jpg",
+                "images/itemImg/Mazda CX8 2023/Mazda CX8 20239.jpg"
+            ],
+            "shortDesc": "Số chỗ ngồi  7 </br> Chiều dài cơ sở (mm) 2930 </br> Kích thước tổng thể (DxRxC) (mm) 4900 x 1840 x 1730 </br> Khoảng sáng gầm xe  200 (mm) </br> Khối lượng bản thân  1.770 (kg) </br> Khối lượng toàn tải  2.365 (kg) </br> Động cơ vận hành  Phun xăng trực tiếp, điều khiển van biến thiên </br> Công suất tối đa  188Hp/5700rpm </br> Momen xoắn cực đại  252Nm/ 4000 rpm </br> Hộp số  6AT Sport Mode </br> Hệ dẫn động  FWD hoặc AWD </br> Loại nhiên liệu  Xăng </br> Dung tích bình nhiên liệu  74 (lít) </br> Nguồn gốc xuất xứ  Mazda Motor - Nhật Bản" 
+        },
+        {
+            "id": 3, 
+            "name": "Ford Ranger XLS 2017",
+            "price": 100000000,
+            "imageLink": "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20171.jpg",
+            "imagePath": [
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20171.jpg",
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20172.jpg",
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20173.jpg",
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20174.jpg",
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20175.jpg",
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20176.jpg",
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20177.jpg",
+                "images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20178.jpg"
+            ],
+            "shortDesc": "Động cơ Turbo Diesel 2.2L TDCi, trục cam kép, có làm mát khí nạp </br> Công suất cực đại 160/3700 Hp/vòng/phút </br> Mô men xoắn cực đại 385/1500-2500( Nm/vòng /phút) </br> 6 số tay </br> Khả năng lội nước 800mm </br> Tải trọng định mức 824 kg </br> Hệ thống chống bó cứng phanh ABS, EBD </br> 2 cầu, Gài cầu điện tử </br> Túi khí an toàn ghế lái và hành khách phía trước </br> Gương chiếu hậu gập điện và điều khiển điện </br> Cảm biến hỗ trợ đỗ xe phía sau </br> Cửa kính 1 chạm chống kẹt phía người lái </br> Chức năng ga tự động: giúp bạn luôn đi đúng tốc độ cho phép mà không cần đạp chân ga , nhất là khi đi đường cao tốc, bạn sẽ cảm thấy rất thoải mái mà không sợ bị bắn tốc độ. </br> Chức năng giới hạn tốc độ : giúp bạn không chạy vượt quá tốc độ cho phép đặc biệt tại những quy định tốc độ khắt khe của thành phố </br> Khóa cửa điều khiển từ xa </br> Khoảng trống để chân hàng ghế sau rộng nhất trong phân khúc xe bán tải </br> Hệ thống Sync Điều khiển bằng giọng nói tích hợp trên vô lăng </br> Màn hình hiển thị đa thông tin </br> Hệ thống âm thanh AM/FM radio, CD 1đĩa, MP3, Ipod & USB, 6Loa, Bluetooth… </ " 
+        },
+        {
+            "id": 4, 
+            "name": "Hyundai i10 Grand 1.2 AT",
+            "price": 100000000,
+            "imageLink": "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT01.jpg",
+            "imagePath": [
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT01.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT02.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT03.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT04.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT05.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT06.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT07.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT08.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT09.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT10.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT11.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT12.jpg",
+                "images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT13.jpg"
+            ],
+            "shortDesc": "THÔNG SỐ CƠ BẢN Thương hiệu : Hyundai Mẫu xe : Hyundai i10 Biến thể : 2018  Hyundai i10 Grand 1.2 AT Phân khúc : A-SegmentLoại năng lượng : Xăng Năm sản suất : 2018 Công suất ( PS ) : 87 Mô-men xoắn cực đại ( Nm ) : 120 Coong suất động cơ đốt trong ( PS ) : 87 Kích thước tổng thể DxRxC : 3765 x 1660 x 1505Dung tích bình xăng ( lít ) : 43 Mức tiêu thụ nhiên liệu : 6.3 L/100kmHộp số : AT ĐỘNG CƠ Động cơ : 1.2 Kappa MPIDung tích xy lanh ( L ) : 1.2 Công suất động cơ đốt trong ( PS ) : 87 Dung tích xy lanh ( cc ) : 1248 Mô-men xoắn từ động cơ đốt trong : 120 KÍCH THƯỚC Dài : 3765 mm Cao : 1505 mm Rộng : 1660 mm Kích thước tỏng thể DxRxC : 3765 x 1660 x 1505Khoảng sáng gần (mm)  : 152 Bán kính vòng quay tối thiểu ( m ) : 4.3 Của xe : 5 Ghế ngồi : 5Dung tích khoang chứa đồ ( lít ) : 407 HỘP SỐ & KHUNG XE Hộp số : AT Lốp trước : 165/65R14Lốp sau : 165/65R14Kích thuơdcs La zăng : 14 inch Hệ thống treo trước : MacPherson Hệ thống treo sau : Thanh xoắn " 
+        },
+        {
+            "id": 5, 
+            "name": "INNOVA CROSS 2023",
+            "price": 366000000,
+            "imageLink": "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20231.jpg",
+            "imagePath": [
+                "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20231.jpg",
+                "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20232.jpg",
+                "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20233.jpg",
+                "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20234.jpg",
+                "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20235.jpg",
+                "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20236.jpg",
+                "images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20237.jpg"
+            ],
+            "shortDesc": "Innova Cross V máy xăng:  </br> Giá quá xịn, công nghệ ngập tràn  </br> Trang bị full hệ thống an toàn Toyota TSS </br> Dẫn động cầu trước </br> Trang bị cốp điện </br> Cửa sổ trời toàn cảnh </br> Phanh tay điện tử </br> Đèn full Led </br> Mâm xe 18inch lớn" 
+        },
+        {
+            "id": 6, 
+            "name": "Mazda CX-3 Deluxe",
+            "price": 269000000,
+            "imageLink": "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe01.jpg",
+            "imagePath": [
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe01.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe02.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe03.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe04.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe05.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe06.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe07.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe08.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe09.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe10.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe11.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe12.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe13.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe14.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe15.jpg",
+                "images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe16.jpg"
+            ],
+            "shortDesc": "Kích thước tổng thể</br>DxRxC 4.275 x 1.765 x 1.550</br>Dung tích xy lanh</br>1.998</br>Động cơ</br>SKYACTIV®-G 2.0L 4 xy lanh</br>Công suất cực đại</br>148 mã lực @ 6.000 vòng / phút</br>Mô-men xoắn cực đại</br>146 lb-ft @ 2.800 vòng / phút</br>Khoảng sáng gầm 1.549</br>Bán kính vòng quay tối thiểu 5</br>Mức tiêu thụ nhiên liệu</br>7,6 lít/100km</br>Xuất xứ Nhập khẩu</br>Hộp số AT 6 cấp</br>Dung tích khoang chứa đồ (lít) : 343</br>Chỗ ngồi : 5" 
+        },
+        {
+            "id": 7, 
+            "name": "Kia Morning 2021",
+            "price": 223000000,
+            "imageLink": "images/itemImg/Kia Morning 2021/Kia Morning 20211.jpg",
+            "imagePath": [
+                "images/itemImg/Kia Morning 2021/Kia Morning 20211.jpg",
+                "images/itemImg/Kia Morning 2021/Kia Morning 20212.jpg",
+                "images/itemImg/Kia Morning 2021/Kia Morning 20213.jpg",
+                "images/itemImg/Kia Morning 2021/Kia Morning 20214.jpg",
+                "images/itemImg/Kia Morning 2021/Kia Morning 20215.jpg",
+                "images/itemImg/Kia Morning 2021/Kia Morning 20216.jpg",
+                "images/itemImg/Kia Morning 2021/Kia Morning 20217.jpg"
+            ],
+            "shortDesc": "Kia Morning 2021 tại Hàn Quốc</br>Kích thước tổng thể DxRxC (mm)  3.595 x 1.595 x 1.485</br>Chiều dài cơ sở (mm)  2.400</br>Bán kính quay vòng (mm)  4.700 </br>Đèn pha  Halogen Projector</br>Đèn sương mù  Halogen Projector</br>Đèn LED chạy ban ngày</br>Cụm đèn hậu LED</br>Đèn tự động bật/tắt</br>Gương chiếu hậu chỉnh điện  Sấy/Gập điện</br>Đèn pha  Halogen Projector</br>Đèn sương mù  Halogen Projector</br>Đèn LED chạy ban ngày</br>Cụm đèn hậu LED</br>Đèn tự động bật/tắt</br>Gương chiếu hậu chỉnh điện  Sấy/Gập điện</br>Động cơ  Xăng, 1.25L - 83 Hp</br>Hộp số  4AT</br>Mâm xe  Mâm đúc 15</br>Thể tích cốp sau  255L" 
+        },
+        {
+            "id": 8, 
+            "name": "Hyundai Accent 2021",
+            "price": 158000000,
+            "imageLink": "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20211.jpg",
+            "imagePath": [
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20211.jpg",
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20212.jpg",
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20213.jpg",
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20214.jpg",
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20215.jpg",
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20216.jpg",
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20217.jpg",
+                "images/itemImg/Hyundai Accent 2021/Hyundai Accent 20218.jpg"
+            ],
+            "shortDesc": "Kiểu động cơ I4</br>Dung tích (cc) 1.368</br>Công suất (mã lực)/vòng tua (vòng/phút) 100/6000</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút) 132/4000</br>Hộp số 5 MT</br>Hệ dẫn động FWD</br>Loại nhiên liệu Xăng</br>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km) 5,44" 
+        },
+        {
+            "id": 9, 
+            "name": "Mitsubishi Attrage 2023",
+            "price": 298000000,
+            "imageLink": "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202302.jpg",
+            "imagePath": [
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202302.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202304.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202305.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202306.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202307.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202308.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202309.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202310.jpg",
+                "images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202311.jpg"
+            ],
+            "shortDesc": "THÔNG SỐ KỸ THUẬT  Attrage MT  Attrage CVT  Attrage CVT Premium</br>KÍCH THƯỚC</br>Kích thước tổng thể (DxRxC)  4.305 x 1.670 x 1.515 mm</br>Chiều dài cơ sở  2.55 mm</br>Bán kính quay vòng nhỏ nhất  4,8 mm</br>Khoảng sáng gầm xe  170 mm</br>ĐỘNG CƠ</br>Loại động cơ  1.2L, 12 van, 3 xy-lanh, DOHC MIVEC</br>Dung tích xy-lanh   1.193 cc</br>Công suất cực đại  78/6.000 ps/rpm</br>Mômen xoắn cực đại  100/4.000 N.m/rpm</br>Mức tiêu hao nhiên liệu (L/100km)</br>Kết hợp/Đô Thị/Ngoài đô thị  4,9 / 6,0 / 4,3  5,36 / 6,47 / 4,71  5,20 / 6,30 / 4,60</br>HỆ THỐNG DẪN ĐỘNG VÀ HỆ THỐNG TREO</br>Hộp số  Số sàn 5 cấp  Tự động vô cấp</br>Hệ thống treo trước  Độc lập MacPherson với thanh cân bằng</br>Hệ thống treo sau  Thanh xoắn</br>Mâm/Lốp  Mâm hợp kim hai tông màu 15</br>Phanh trước  Đĩa thông gió</br>Phanh sau  Tang trống</br>TRANG THIẾT BỊ</br>AN TOÀN</br>Túi khí  Túi khí đôi</br>Căng đai tự động  Có  Có  Có</br>Dây đai an toàn cho tất cả các ghế  Có  Có  Có</br>Cảnh báo thắt dây an toàn  Có  Có  Có</br>Móc gắn ghế an toàn trẻ em  Có  Có  Có</br>Hệ thống chống bó cứng phanh (ABS)  Có  Có  Có</br>Hệ thống phân phối lực phanh điện tử (EBD)  Có  Có  Có</br>Hệ thống cân bằng điện tử (ASC)  Không  Không  Có</br>Hỗ trợ lực phanh khẩn cấp (BA)  Không  Không  Có</br>Hỗ trợ khởi hành ngang dốc (HSA)  Không  Không  Có</br>Khóa cửa từ xa  Có  Có  Có</br>Chìa khóa mã hóa chống trộm  Có  Có  Có</br>Chìa khóa thông minh/ Khởi động bằng nút bấm  Không  Có  Có</br>Camera lùi  Không  Có  Có"
+        },
+        {
+            "id": 10, 
+            "name": "Mazda 2",
+            "price": 180000000,
+            "imageLink": "images/itemImg/Mazda 2/Mazda 21.jpg",
+            "imagePath": [
+                "images/itemImg/Mazda 2/Mazda 21.jpg",
+                "images/itemImg/Mazda 2/Mazda 22.jpg",
+                "images/itemImg/Mazda 2/Mazda 23.jpg",
+                "images/itemImg/Mazda 2/Mazda 24.jpg",
+                "images/itemImg/Mazda 2/Mazda 25.jpg",
+                "images/itemImg/Mazda 2/Mazda 26.jpg"
+            ],
+            "shortDesc": "=> Thông số kỹ thuật</br>Động cơ/hộp số</br>Kiểu động cơ : Skyactiv-G 1.5</br>Dung tích (cc) : 1.496</br>Công suất (mã lực)/vòng tua (vòng/phút) : 110 / 6.000</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút) : 144 / 4.000</br>Hộp số : Tự động 6 cấp/6AT</br>Hệ dẫn động : Cầu trước / FWD</br>Loại nhiên liệu : Xăng</br>=>  Kích thước/trọng lượng</br>Số chỗ : 5</br>Kích thước dài x rộng x cao (mm) : 4.340 x 1.695 x 1.470</br>Chiều dài cơ sở (mm) : 2.570</br>Khoảng sáng gầm (mm) : 140</br>Bán kính vòng quay (mm) : 4.700</br>Dung tích khoang hành lý (lít) : 440</br>Dung tích bình nhiên liệu (lít) : 44</br>Trọng lượng bản thân (kg) : 1.074</br>Trọng lượng toàn tải (kg) : 1.538</br>Lốp, la-zăng : 185/65R15</br>=> Hệ thống treo/phanh</br>Treo trước : MacPherson / MacPherson Struts</br>Treo sau : Thanh xoắn / Torsion beam</br>Phanh trước : Đĩa Thông Gió / Ventilated disc</br>Phanh sau : Đĩa / Solid disc" 
+        },
+        {
+            "id": 11, 
+            "name": "Mazda 3 2019 sedan",
+            "price": 235000000,
+            "imageLink": "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan01.jpg",
+            "imagePath": [
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan01.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan02.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan03.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan04.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan05.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan06.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan07.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan08.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan09.jpg",
+                "images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan10.jpg"
+            ],
+            "shortDesc": "Dáng xe : Sedan</br>Số chỗ ngồi : 5</br>Số cửa sổ : 4.00</br>Dung tích động cơ : 1.50L</br>Công suất cực đại : 112.00 mã lực , tại 6000.00 vòng/phút</br>Momen xoắn cực đại : 144.00 Nm , tại 4000 vòng/phút</br>Hộp số : 6.00 cấp</br>Kiểu dẫn động </br>Mức tiêu hao nhiên liệu : 0.00l/100km </br>Điều hòa : tự động 1 vùng</br>Số lượng túi khí : 4 túi khí" 
+        },
+        {
+            "id": 12, 
+            "name": "Hyundai Tucson 2019",
+            "price": 215000000,
+            "imageLink": "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20191.jpg",
+            "imagePath": [
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20191.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20192.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20193.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20194.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20195.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20196.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20197.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20198.jpg",
+                "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20199.jpg"
+            ],
+            "shortDesc": "Dung tích (cc): 1.999</br>Công suất (mã lực)/vòng tua (vòng/phút): 156/6.200</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 192/4.000</br>Hộp số: 6 AT</br>Hệ dẫn động: FWD</br>Loại nhiên liệu: Xăng</br>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 7,77</br>Số chỗ: 5</br>Kích thước dài x rộng x cao (mm): 4.630 x 1.865 x 1.695</br>Chiều dài cơ sở (mm): 2.755</br>Khoảng sáng gầm (mm): 181</br>Dung tích bình nhiên liệu (lít): 62</br>Lốp, la-zăng: 225/60 R17" 
+        }
+    ]
+}

@@ -547,7 +547,20 @@ https://templatemo.com/tm-516-known
   }
 
   .courses-image {
-    background: linear-gradient(to right, #202020, #101010);
+    background: linear-gradient(to right, #20202027, #1010102d);
+    height: 256px;
+    overflow: hidden;
+  }
+
+  .img-responsive{
+    width: 100%; /* Đảm bảo hình ảnh chiếm đầy đủ chiều rộng của khu vực cha */
+    height: 100%; /* Chiều cao tự động điều chỉnh để duy trì tỷ lệ khung hình */
+    object-fit: contain; /* Điều chỉnh cách hiển thị hình ảnh */
+  }
+
+  #img-details{
+    height: 150px;
+    overflow: hidden;
   }
 
   .courses-date {
@@ -773,7 +786,8 @@ https://templatemo.com/tm-516-known
   }
 
   footer h2 {
-    font-size: 20px;
+    font-size: 50px;
+    color: whitesmoke;
   }
 
   footer a,
@@ -887,8 +901,6 @@ https://templatemo.com/tm-516-known
     color: #ffffff;
   }
 
-
-
   /*---------------------------------------
      RESPONSIVE STYLES              
   -----------------------------------------*/
@@ -997,6 +1009,11 @@ https://templatemo.com/tm-516-known
 
     .contact-image {
       margin-top: 0;
+    }
+
+    .courses-image {
+      height: 128px;
+      overflow: hidden;
     }
   }
 

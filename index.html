@@ -21,6 +21,38 @@
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css" />
   </head>
+  <style>
+    #scroll-container {
+      height: 350px;
+      overflow: hidden;
+      scroll-behavior: smooth;
+    }
+
+    #item-list {
+      padding: 0;
+      margin: 0;
+      transform: translate3d(0, 0, 0);
+      transition: transform 0.3 ease; /* Tăng thời gian transition để cuộn diễn ra chậm rãi hơn */
+    }
+
+    #item-list li {
+      list-style: none;
+      height: 30px;
+      font-size: 20px; /* Đặt kích thước chữ lớn hơn */
+      text-align: center; /* Căn giữa chữ */
+      color: red; /* Đặt màu chữ là đỏ */
+    }
+
+    @media screen and (max-width: 700px) {
+      #item-list li {
+        list-style: none;
+        height: 30px;
+        font-size: 11px; /* Đặt kích thước chữ lớn hơn */
+        text-align: center; /* Căn giữa chữ */
+        color: red; /* Đặt màu chữ là đỏ */
+      }
+    }
+  </style>
   <body
     id="top"
     data-spy="scroll"
@@ -73,9 +105,12 @@
                 <div class="col-md-6 col-sm-12">
                   <h1>Khám Phá Dòng Xe Bình Dân</h1>
                   <h3>
-                    Giới thiệu về các mẫu xe hiện đại, tiết kiệm nhiên liệu và phù hợp với túi tiền của bạn.
+                    Giới thiệu về các mẫu xe hiện đại, tiết kiệm nhiên liệu và
+                    phù hợp với túi tiền của bạn.
                   </h3>
-                  <a class="section-btn btn btn-default" onclick="scrollToProductStart()"
+                  <a
+                    class="section-btn btn btn-default"
+                    onclick="scrollToProductStart()"
                     >Xem xe</a
                   >
                 </div>
@@ -87,13 +122,15 @@
             <div class="caption">
               <div class="container">
                 <div class="col-md-6 col-sm-12">
-                  <h1>
-                    Chinh Phục Đường Xa với Xe Ô Tô Tiết Kiệm
-                  </h1>
+                  <h1>Chinh Phục Đường Xa với Xe Ô Tô Tiết Kiệm</h1>
                   <h3>
-                    Khám phá các mẫu xe ô tô giá bình dân, đáp ứng nhu cầu di chuyển hàng ngày mà không làm ảnh hưởng đến ngân sách của bạn.
+                    Khám phá các mẫu xe ô tô giá bình dân, đáp ứng nhu cầu di
+                    chuyển hàng ngày mà không làm ảnh hưởng đến ngân sách của
+                    bạn.
                   </h3>
-                  <a class="section-btn btn btn-default" onclick="scrollToProductStart()"
+                  <a
+                    class="section-btn btn btn-default"
+                    onclick="scrollToProductStart()"
                     >Xem xe</a
                   >
                 </div>
@@ -107,9 +144,12 @@
                 <div class="col-md-6 col-sm-12">
                   <h1>Trải Nghiệm Tốc Độ với Xe Hiện Đại</h1>
                   <h3>
-                    Động cơ mạnh mẽ, thiết kế thời trang và hiệu suất ổn định. Sẵn sàng đưa bạn đến mọi nơi mà bạn muốn.
+                    Động cơ mạnh mẽ, thiết kế thời trang và hiệu suất ổn định.
+                    Sẵn sàng đưa bạn đến mọi nơi mà bạn muốn.
                   </h3>
-                  <a class="section-btn btn btn-default" onclick="scrollToProductStart()"
+                  <a
+                    class="section-btn btn btn-default"
+                    onclick="scrollToProductStart()"
                     >Xem xe</a
                   >
                 </div>
@@ -123,183 +163,710 @@
     <main>
       <section>
         <div class=".container-fluid">
-          <div class="row">
+          <div class="row" id="item-show-list">
             <div class="col-md-12 col-sm-12">
               <div class="section-title text-center" id="product-start">
-                <h2>
-                  Sản phẩm
-                </h2>
-              </div>
-            </div>
-            <div class="col-md-3 col-sm-3 col-custom">
-              <div class="courses-thumb courses-thumb-secondary">
-                <div class="courses-top">
-                  <div class="courses-image">
-                    <img
-                      src="images/product-1-720x480.jpg"
-                      class="img-responsive"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="courses-detail">
-                  <h3>
-                    <a href="car-details.html">Mazda CX8 2023</a>
-                  </h3>
-                  <p class="lead">
-                    <strong>384.000.000VND</strong>
-                  </p>
-                </div>
-                <div class="courses-info">
-                  <a
-                    href="car-details.html"
-                    class="section-btn btn btn-primary btn-block"
-                    >Xem chi tiết</a
-                  >
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3 col-sm-3 col-custom">
-              <div class="courses-thumb courses-thumb-secondary">
-                <div class="courses-top">
-                  <div class="courses-image">
-                    <img
-                      src="images/product-1-720x480.jpg"
-                      class="img-responsive"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="courses-detail">
-                  <h3>
-                    <a href="car-details.html">Mazda CX8 2023</a>
-                  </h3>
-                  <p class="lead">
-                    <strong>384.000.000VND</strong>
-                  </p>
-                </div>
-                <div class="courses-info">
-                  <a
-                    href="car-details.html"
-                    class="section-btn btn btn-primary btn-block"
-                    >Xem chi tiết</a
-                  >
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3 col-sm-3 col-custom">
-              <div class="courses-thumb courses-thumb-secondary">
-                <div class="courses-top">
-                  <div class="courses-image">
-                    <img
-                      src="images/product-1-720x480.jpg"
-                      class="img-responsive"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="courses-detail">
-                  <h3>
-                    <a href="car-details.html">Mazda CX8 2023</a>
-                  </h3>
-                  <p class="lead">
-                    <strong>384.000.000VND</strong>
-                  </p>
-                </div>
-                <div class="courses-info">
-                  <a
-                    href="car-details.html"
-                    class="section-btn btn btn-primary btn-block"
-                    >Xem chi tiết</a
-                  >
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3 col-sm-3 col-custom">
-              <div class="courses-thumb courses-thumb-secondary">
-                <div class="courses-top">
-                  <div class="courses-image">
-                    <img
-                      src="images/product-1-720x480.jpg"
-                      class="img-responsive"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="courses-detail">
-                  <h3>
-                    <a href="car-details.html">Mazda CX8 2023</a>
-                  </h3>
-                  <p class="lead">
-                    <strong>384.000.000VND</strong>
-                  </p>
-                </div>
-                <div class="courses-info">
-                  <a
-                    href="car-details.html"
-                    class="section-btn btn btn-primary btn-block"
-                    >Xem chi tiết</a
-                  >
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3 col-sm-3 col-custom">
-              <div class="courses-thumb courses-thumb-secondary">
-                <div class="courses-top">
-                  <div class="courses-image">
-                    <img
-                      src="images/product-1-720x480.jpg"
-                      class="img-responsive"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="courses-detail">
-                  <h3>
-                    <a href="car-details.html">Mazda CX8 2023</a>
-                  </h3>
-                  <p class="lead">
-                    <strong>384.000.000VND</strong>
-                  </p>
-                </div>
-                <div class="courses-info">
-                  <a
-                    href="car-details.html"
-                    class="section-btn btn btn-primary btn-block"
-                    >Xem chi tiết</a
-                  >
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3 col-sm-3 col-custom">
-              <div class="courses-thumb courses-thumb-secondary">
-                <div class="courses-top">
-                  <div class="courses-image">
-                    <img
-                      src="images/product-1-720x480.jpg"
-                      class="img-responsive"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="courses-detail">
-                  <h3>
-                    <a href="car-details.html">Mazda CX8 2023</a>
-                  </h3>
-                  <p class="lead">
-                    <strong>384.000.000VND</strong>
-                  </p>
-                </div>
-                <div class="courses-info">
-                  <a
-                    href="car-details.html"
-                    class="section-btn btn btn-primary btn-block"
-                    >Xem chi tiết</a
-                  >
-                </div>
+                <h2>Sản phẩm</h2>
               </div>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="col-md-12 col-sm-12">
+          <div class="section-title text-center">
+            <h2>Xe đang vận chuyển</h2>
+          </div>
+        </div>
+        <div class="container" id="scroll-container">
+          <ul id="item-list">
+            <li>
+              Anh Hữu SDT:09*****880 ĐC:Bắc Mê Hà Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Tiền SDT:09*****234 ĐC:Bắc Ninh Bắc Ninh Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Lộc SDT:09*****220 ĐC:Bến Cầu Tây Ninh Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Diễm SDT:09*****214 ĐC:Bến Lức Long An Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Phát SDT:03*****620 ĐC:Bảo Yên Lào Cai Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Khoa SĐT:09*****083 ĐC:Thành phố Lạng Sơn xe đang vận chuyển
+            </li>
+            <li>
+              Chị My SĐT:09*****033 ĐC:Lâm Bình TUYÊN QUANG xe đang vận chuyển
+            </li>
+            <li>
+              chị Như SDT:09*****551 ĐC:Hàm Ninh Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hùng SDT:09*****104 ĐC:Châu Phú An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              AnhSang SDT:09*****124 ĐC:Đông Thắng Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Ái SDT:09*****336 ĐC:Gành Hào Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Nhung SĐT:09*****385 ĐC:Kiến Thụy HẢI PHÒNG xe đang vận chuyển
+            </li>
+            <li>Anh Thanh SĐT:09*****702 ĐC:Việt Trì PT xe đang vận chuyển</li>
+            <li>
+              chị Ngọc SDT:09*****844 ĐC:Dương Đông Kiên Giang xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Vĩnh SDT:09*****356 ĐC:Bàu Bàng Bình Dương Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Chi SDT:09*****312 ĐC:Bến Cát Bình Dương Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Tú SDT:09*****223 ĐC:An Hội Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Chinh SĐT:09*****137 ĐC:Thành phố Bắc Kạn xe đang vận chuyển
+            </li>
+            <li>
+              Anh Bách SĐT:09*****067 ĐC:Bắc Quang HÀ GIANG xe đang vận chuyển
+            </li>
+            <li>
+              Chị Nhung SĐT:09*****957 ĐC:Cẩm Giàng, HD xe đang vận chuyển
+            </li>
+            <li>
+              chị Hân SDT:09*****811 ĐC:Hưng Hội Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Quốc SĐT:09*****512 ĐC:Dương Kinh HẢI PHÒNG xe đang vận chuyển
+            </li>
+            <li>
+              chị Hồng SDT:09*****688 ĐC:Bình Thuỷ Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Thanh SDT:09*****026 ĐC:Châu Hưng A Bạc Liêu Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              chị Hồng SDT:09*****964 ĐC:Long Thạnh Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Hạnh SĐT:09*****757 ĐC:Thạch Thất HÀ NỘI xe đang vận chuyển
+            </li>
+            <li>Anh Tài SĐT:09*****027 ĐC:Ứng Hòa HÀ NỘI xe đang vận chuyển</li>
+            <li>
+              Anh Kiên SDT:09*****906 ĐC:Tịnh Biên An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Long SĐT:08*****369 ĐC:Chợ Đồn BẮC KẠN xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thư SĐT:09*****089 ĐC:Bát Xát LÀO CAO xe đang vận chuyển
+            </li>
+            <li>
+              Anh Nhiên SĐT:09*****036 ĐC:Văn Lãng LẠNG SƠN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Khoa SDT:09*****011 ĐC:Tri Tôn An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>Chị Như SĐT:09*****347 ĐC:Bình Tân TPHM xe đang vận chuyển</li>
+            <li>
+              Chị Thúy SĐT:09*****966 ĐC:Liên Chiểu ĐÀ NẴNG xe đang vận chuyển
+            </li>
+            <li>
+              chị Tâm SDT:09*****944 ĐC:Vĩnh Lộc A Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Thắng SDT:09*****275 ĐC:Hiệp Thành Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Đoan SDT:09*****466 ĐC:Châu Phú An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>Chị Thư SĐT:09*****589 ĐC:Mỹ Đức HÀ NỘI xe đang vận chuyển</li>
+            <li>
+              Anh Quốc SĐT:09*****114 ĐC:Lương Tài, tỉnh BN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Tài SDT:09*****368 ĐC:Tịnh Biên An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Lâm SĐT:09*****560 ĐC:Cát Hải HẢI PHÒNG xe đang vận chuyển
+            </li>
+            <li>Chị Hạnh SĐT:09*****145 ĐC:Cần Giờ TPHM xe đang vận chuyển</li>
+            <li>
+              chị Kim SDT:09*****515 ĐC:Châu Phú An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Khôi SDT:09*****199 ĐC:Bùi Hữu Nghĩa Cần Thơ Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Quốc SĐT:09*****418 ĐC:Yên Sơn TUYÊN QUANG xe đang vận chuyển
+            </li>
+            <li>
+              Anh Quang SĐT:03*****614 ĐC:Mường Tè LAI CHÂU xe đang vận chuyển
+            </li>
+            <li>
+              Anh Cương SĐT:09*****619 ĐC:Bắc Mê HÀ GIANG xe đang vận chuyển
+            </li>
+            <li>
+              chị Dung SDT:09*****994 ĐC:Vĩnh Trường An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Phước SDT:09*****970 ĐC:Tịnh Biên An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Chi SDT:09*****585 ĐC:Vĩnh Trạch Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Khánh SĐT:09*****996 ĐC:Mường Tè LAI CHÂU xe đang vận chuyển
+            </li>
+            <li>
+              Anh Long SĐT:08*****156 ĐC:Ngân Sơn BẮC KẠN xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thư SĐT:09*****369 ĐC:Đình Lập LẠNG SƠN xe đang vận chuyển
+            </li>
+            <li>
+              chị Mai SDT:09*****580 ĐC:Đông phú Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Tâm SDT:09*****876 ĐC:Gành Dầu Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Quang SDT:09*****010 ĐC:Vị Trung Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Trang SDT:09*****286 ĐC:Xuân Khánh Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Long SĐT:03*****980 ĐC:Bắc Mê HÀ GIANG xe đang vận chuyển
+            </li>
+            <li>
+              Chị Lan SĐT:09*****902 ĐC:Liên Chiểu ĐÀ NẴNG xe đang vận chuyển
+            </li>
+            <li>
+              Anh Tùng SĐT:09*****474 ĐC:Tiên Lãng HẢI PHÒNG xe đang vận chuyển
+            </li>
+            <li>Anh An SĐT:09*****051 ĐC:Củ Chi TPHCM xe đang vận chuyển</li>
+            <li>
+              Anh An SDT:09*****034 ĐC:Vĩnh Thành An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Linh SDT:09*****365 ĐC:Tân Phú Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Nguyễn SĐT:03*****411 ĐC:Hoàng Sa ĐÀ NẴNG xe đang vận chuyển
+            </li>
+            <li>
+              chị Ngân SDT:09*****893 ĐC:Tân thành Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Nam SDT:09*****682 ĐC:Thạnh Quới Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Thanh SĐT:07*****656 ĐC:Hàm Yên TUYÊN QUANG xe đang vận chuyển
+            </li>
+            <li>
+              Anh Điền SĐT:09*****913 ĐC:Phục Hòa CAO BẰNG xe đang vận chuyển
+            </li>
+            <li>
+              Anh Minh SDT:09*****102 ĐC:Vĩnh Trinh Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Ngọc SDT:09*****971 ĐC:Long Điền Đông Bạc Liêu Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Tuấn SDT:09*****566 ĐC:Thới Xuân Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Hạnh SĐT:09*****926 ĐC:Chợ Mới BẮC KẠN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Cương SĐT:09*****370 ĐC:Đình Lập LẠNG SƠN xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thư SĐT:03*****311 ĐC:Văn Bàn LÀO CAO xe đang vận chuyển
+            </li>
+            <li>
+              Anh Tùng SĐT:09*****951 ĐC:Lương Tài, tỉnh BN xe đang vận chuyển
+            </li>
+            <li>Anh Vĩ SDT:09*****123 ĐC:Hội An An Giang Xe Đang Vận Chuyển</li>
+            <li>
+              Anh Tuấn SDT:09*****225 ĐC:Long Tuyền Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Khôi SĐT:03*****771 ĐC:Bảo Yên LÀO CAO xe đang vận chuyển
+            </li>
+            <li>
+              Anh Cương SĐT:03*****588 ĐC:Quản Bạ HÀ GIANG xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thúy: SĐT:09*****649 ĐC:An Dương HẢI PHÒNG xe đang vận chuyển
+            </li>
+            <li>Anh An SĐT:09*****671 ĐC:Bình Chánh TPHC xe đang vận chuyển</li>
+            <li>
+              Anh Phi SDT:09*****489 ĐC:Hiệp Lợi Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Thắng SDT:09*****361 ĐC:Kiên Bình Kiên Giang xe Đang Vận
+              Chuyển
+            </li>
+            <li>Chị Lan SĐT:09*****757 ĐC:Từ Liêm HÀ NỘI xe đang vận chuyển</li>
+            <li>
+              Anh Tùng SĐT:09*****261 ĐC:Hải Châu ĐÀ NẴNG xe đang vận chuyển
+            </li>
+            <li>
+              Anh Khôi SĐT:09*****297 ĐC:Quản Bạ HÀ GIANG xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thanh SĐT:03*****420 ĐC:Tam Đường LAI CHÂU xe đang vận chuyển
+            </li>
+            <li>
+              Anh Nhân SDT:09*****154 ĐC:Thổ Sơn Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Kiều SDT:09*****209 ĐC:Cửa Cạn Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Thư SDT:09*****515 ĐC:Tịnh Biên An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Nhi SĐT:09*****688 ĐC:Thành phố Bắc Ninh xe đang vận chuyển
+            </li>
+            <li>
+              Anh Long SĐT:09*****496 ĐC:Bình Liêu QUẢNG NINH xe đang vận chuyển
+            </li>
+            <li>
+              Anh Tùng SĐT:09*****933 ĐC:Tam Dương VĨNH PHÚC xe đang vận chuyển
+            </li>
+            <li>
+              Anh Trường SDT:09*****031 ĐC:Lương Tâm Hậu Giang Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Chị Linh SDT:09*****991 ĐC:Bạc Liêu Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hữu SDT:09*****880 ĐC:Bắc Mê Hà Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Tiền SDT:09*****234 ĐC:Bắc Ninh Bắc Ninh Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Lộc SDT:09*****220 ĐC:Bến Cầu Tây Ninh Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Diễm SDT:09*****214 ĐC:Bến Lức Long An Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Phát SDT:03*****620 ĐC:Bảo Yên Lào Cai Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Khoa SĐT:09*****083 ĐC:Thành phố Lạng Sơn xe đang vận chuyển
+            </li>
+            <li>
+              Chị My SĐT:09*****033 ĐC:Lâm Bình TUYÊN QUANG xe đang vận chuyển
+            </li>
+            <li>
+              chị Như SDT:09*****551 ĐC:Hàm Ninh Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hùng SDT:09*****104 ĐC:Châu Phú An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              AnhSang SDT:09*****124 ĐC:Đông Thắng Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Ái SDT:09*****336 ĐC:Gành Hào Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Nhung SĐT:09*****385 ĐC:Kiến Thụy HẢI PHÒNG xe đang vận chuyển
+            </li>
+            <li>Anh Thanh SĐT:09*****702 ĐC:Việt Trì PT xe đang vận chuyển</li>
+            <li>
+              Anh Vĩnh SDT:09*****356 ĐC:Bàu Bàng Bình Dương Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Chi SDT:09*****312 ĐC:Bến Cát Bình Dương Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Tú SDT:09*****223 ĐC:An Hội Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Chinh SĐT:09*****137 ĐC:Thành phố Bắc Kạn xe đang vận chuyển
+            </li>
+            <li>
+              Chị Khánh SĐT:09*****368 ĐC:Bảo Thắng LÀO CAO xe đang vận chuyển
+            </li>
+            <li>
+              chị Diệp SDT:09*****747 ĐC:Long Hoà Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Thái SDT:09*****566 ĐC:Hòa Thuận Đồng Tháp Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Hà SDT:09*****257 ĐC:Tân Hòa Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Công SDT:09*****274 ĐC:Trường Xuân Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Thúy SĐT:09*****276 ĐC:Phú Thọ Việt Trì xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thư: SĐT:09*****432 ĐC:Định Hóa THÁI NGUYÊN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Thiện SĐT:09*****202 ĐC:Văn Yên YÊN BÁI xe đang vận chuyển
+            </li>
+            <li>
+              Anh Quốc SĐT:09*****838 ĐC:Thành phố Tuyên Quang xe đang vận
+              chuyển
+            </li>
+            <li>
+              chị Quỳnh SDT:09*****882 ĐC:Tịnh Biên An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Khuê SĐT:09*****355 ĐC:Văn Yên YÊN BÁI xe đang vận chuyển
+            </li>
+            <li>
+              Chị Hạnh SĐT:09*****717 ĐC:Đoan Hùng PHÚ THỌ xe đang vận chuyển
+            </li>
+            <li>
+              Anh Long SĐT:03*****935 ĐC:Thành phố Bắc Giang xe đang vận chuyển
+            </li>
+            <li>
+              Chị Ngà SĐT:09*****102 ĐC:Văn Quan LẠNG SƠN xe đang vận chuyển
+            </li>
+            <li>
+              chị Hương SDT:09*****889 ĐC:Vĩnh Hòa Hưng Nam Kiên Giang xe Đang
+              Vận Chuyển
+            </li>
+            <li>
+              Anh Đạt SDT:09*****134 ĐC:Lái Hiếu Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Ngọc SDT:09*****216 ĐC:Xà Phiên Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Nam SĐT:03*****023 ĐC:hố Phủ Lý HÀ NAM xe đang vận chuyển
+            </li>
+            <li>
+              Anh Minh SĐT:09*****048 ĐC:Mường La SƠN LA xe đang vận chuyển
+            </li>
+            <li>
+              Anh Việt SDT:09*****103 ĐC:Vĩnh Lộc A Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Ngọc SDT:09*****199 ĐC:Thuận Hưng Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>CHị Thu SĐT:07*****319 ĐC:Việt Trì PT xe đang vận chuyển</li>
+            <li>
+              Anh Hoàng SĐT:09*****832 ĐC:Cẩm Giàng, HD xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thiện SĐT:09*****299 ĐC:Hoàn Kiếm Hà Nội xe đang vận chuyển
+            </li>
+            <li>
+              Anh Bình SDT:09*****338 ĐC:Long Điền Tây Bạc Liêu Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Anh SDT:09*****655 ĐC:Vĩnh Thạnh Trung An Giang Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Hưng SDT:09*****476 ĐC:Vĩnh Tường Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>Anh Huy SĐT:09*****000 ĐC:Bắc Yên SƠN LA xe đang vận chuyển</li>
+            <li>
+              Chị Nhi SĐT:09*****490 ĐC:Bảo Lạc CAO BẰNG xe đang vận chuyển
+            </li>
+            <li>
+              Anh Đức SĐT:09*****555 ĐC:Thuận Châu SƠN LA xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thư SĐT:09*****985 ĐC:Lương Tài, tỉnh BN xe đang vận chuyển
+            </li>
+            <li>
+              chị Thư SDT:09*****466 ĐC:Vĩnh Viễn Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Hoa SDT:09*****691 ĐC:Đại Thành Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Hạnh SĐT:07*****246 ĐC:Hưng Hà THÁI BÌNH xe đang vận chuyển
+            </li>
+            <li>
+              Anh Dũng SDT:09*****338 ĐC:Xuân Thắng Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Đạt SDT:09*****419 ĐC:Hưng Lợi Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Kiệt SĐT:09*****294 ĐC:Hành Sơn ĐÀ NẴNG xe đang vận chuyển
+            </li>
+            <li>
+              chị Linh SDT:09*****955 ĐC:Ninh Quới Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Thư SĐT:09*****809 ĐC:Yên Bình YÊN BÁI xe đang vận chuyển
+            </li>
+            <li>
+              Chị My SĐT:09*****886 ĐC:Na HangTUYÊN QUANG xe đang vận chuyển
+            </li>
+            <li>
+              chị Hoa SDT:09*****720 ĐC:Bình Long An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Tuấn SDT:09*****554 ĐC:Đông Hiệp Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Ngọc SDT:09*****127 ĐC:Tây Yên Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              chịThảo SDT:09*****407 ĐC:Phú Hữu Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Hạnh SĐT:09*****336 ĐC:Tràng Định LẠNG SƠN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Tài SĐT:09*****186 ĐC:Phú Lương THÁI NGUYÊN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Quang SDT:09*****307 ĐC:Bến Cầu Tây Ninh Xe Đang Vận Chuyể
+            </li>
+            <li>
+              Anh Nghĩa SDT:09*****710 ĐC:Bình Thạnh Tphm Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Bích SDT:09*****364 ĐC:An Lạc Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Phước SDT:09*****012 ĐC:Bố Trạch Quảng Bình Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Khuê SĐT:09*****366 ĐC:Phú Lương THÁI NGUYÊN xe đang vận
+              chuyển
+            </li>
+            <li>
+              Anh Điền SĐT:09*****900 ĐC:Phù Yên SƠN LA xe đang vận chuyển
+            </li>
+            <li>
+              Anh Hảo SDT:09*****781 ĐC:Bù Đốp Bình Phước Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Vy SDT:09*****810 ĐC:Đông Phú Hậu Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Nam SDT:09*****789 ĐC:Thới Xuân Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Cát SDT:09*****303 ĐC:Thới Đông Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Ngân SDT:09*****430 ĐC:Phong Thạnh Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Hạnh SĐT:03*****728 ĐC:Chợ Đồn BẮC KẠN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Quân SDT:09*****285 ĐC:Bàn Thạch Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Tuấn SDT:09*****012 ĐC:Phong Tân Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Châu SDT:09*****893 ĐC:Hưng Yên Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Vinh SDT:09*****209 ĐC:Tấn Mỹ An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Diệu SDT:09*****225 ĐC:An Nghiệp Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hoàng SDT:09*****906 ĐC:Ngọc Hòa Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hoàng SĐT:09*****878 ĐC:Cao Bằng CAO BẰNG xe đang vận chuyển
+            </li>
+            <li>
+              CHị Thu SĐT:09*****094 ĐC:Đồng Văn HÀ GIANG xe đang vận chuyển
+            </li>
+            <li>
+              chị Huyền SDT:09*****002 ĐC:Bình Minh Kiên Giang xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Hùng SDT:09*****268 ĐC:Tân Phong Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Tài SDT:09*****420 ĐC:Tân Hoà An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Liên SDT:09*****157 ĐC:Thạnh Bình Kiên Giang xe Đang Vận
+              Chuyển
+            </li>
+            <li>chị Ánh SDT:09*****811 ĐC:An Hòa Cần Thơ Xe Đang Vận Chuyển</li>
+            <li>
+              Chị Diệp SĐT:09*****958 ĐC:Thành phố Hải Dương xe đang vận chuyển
+            </li>
+            <li>
+              Anh Đăng SDT:09*****380 ĐC:Hộ Phòng Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hoàng SDT:09*****948 ĐC:Vĩnh Phong Kiên Giang xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              chị Trâm SDT:09*****992 ĐC:Vân Khánh Đông Kiên Giang xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Khánh SDT:09*****102 ĐC:Minh Diệu Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Tùng SĐT:03*****899 ĐC:Tiên Du BẮC NINH xe đang vận chuyển
+            </li>
+            <li>
+              Anh Trọng SDT:09*****031 ĐC:Vĩnh Mỹ B Bạc Liêu Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Quang SĐT:09*****182 ĐC: Gia Viễn NINH BÌNH xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thương SDT:09*****689 ĐC:Tân Hoà An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hoang SDT:09*****891 ĐC:Minh Lương Kiên Giang xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Chị Mai SDT:09*****457 ĐC:Xuân Hòa Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Long SDT:09*****818 ĐC:An Minh Kiên Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Lâm SĐT:09*****958 ĐC:Bỉm Sơn THANH HÓA xe đang vận chuyển
+            </li>
+            <li>
+              Chị Oanh SDT:09*****645 ĐC:An Nhơn Bình Định Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Phi SDT:09*****004 ĐC:Bình Tân Vĩnh Long Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Uyên SDT:09*****662 ĐC:Nhơn Mỹ Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Trường SDT:09*****701 ĐC:An Phú An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Thái SĐT:07*****110 ĐC:Gia Lộc HẢI DƯƠNG xe đang vận chuyển
+            </li>
+            <li>
+              Chị Thúy: SĐT:03*****467 ĐC:Ân Thi HƯNG YÊN xe đang vận chuyển
+            </li>
+            <li>
+              Anh Long SDT:09*****003 ĐC:Anh Sơn Nghệ An Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Mẫn SDT:09*****347 ĐC:An Mỹ Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>Anh Hải SDT:09*****414 ĐC:Ba Bể Bắc Kạn Xe Đang Vận Chuyển</li>
+            <li>
+              Anh Thái SĐT:09*****725 ĐC:Thành phố Thái Nguyên xe đang vận
+              chuyển
+            </li>
+            <li>
+              Anh Dũng SĐT:03*****036 ĐC:Lâm Bình TUYÊN QUANG xe đang vận chuyển
+            </li>
+            <li>
+              Anh Trung SDT:09*****139 ĐC:Bố Trạch Quảng Bình Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Hân SDT:09*****147 ĐC:Buôn Hồ Đắk Lắk Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Minh SDT:09*****870 ĐC:Châu Phú An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Hà SDT:09*****321 ĐC:Châu Đức Bà Rịa – Vũng Tàu Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              Anh Toản SDT:09*****786 ĐC:Cầu Ngang Trà Vinh Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hoàng SDT:09*****557 ĐC:An Biên Kiên Giang xe đang vận chuyển
+            </li>
+            <li>
+              Chị Hương SĐT:09*****399 ĐC:Cẩm Khê PHÚ THỌ xe đang vận chuyển
+            </li>
+            <li>
+              Anh Thanh SĐT:09*****436 ĐC:Hải Hà QUẢNG NINH xe đang vận chuyển
+            </li>
+            <li>
+              chị My SDT:09*****789 ĐC:Mỹ Hiệp Sơn Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              An Mạnh SDT:09*****313 ĐC:Vĩnh Thuận Tây Hậu Giang Xe Đang Vận
+              Chuyển
+            </li>
+            <li>
+              chị Linh SDT:09*****430 ĐC:Thuận Hưng Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Thiện SĐT:09*****952 ĐC:Bảo Thắng LÀO CAO xe đang vận chuyển
+            </li>
+            <li>
+              Anh Phúc SDT:09*****994 ĐC:Lại Sơn Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              chị Hạ SDT:09*****103 ĐC:Thốt Nốt Cần Thơ Xe Đang Vận Chuyển
+            </li>
+            <li>Chị Hạnh SĐT:09*****988 ĐC:Đồng Văn HÀ xe đang vận chuyển</li>
+            <li>
+              Chị Hương SDT:09*****385 ĐC:Xã Thạnh Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Nam SDT:09*****199 ĐC:Dương Hòa Kiên Giang xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Khánh SDT:09*****412 ĐC:Hưng Phú Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Nhật SDT:09*****221 ĐC:Mỹ Tú Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Thái SĐT:09*****101 ĐC:An Lão Hải Phòng xe đang vận chuyển
+            </li>
+            <li>
+              Anh Huy SDT:09*****841 ĐC:Hội Thượng Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Châu SDT:09*****201 ĐC:Mỹ Tú Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Bảo SDT:09*****245 ĐC:Mỹ Phước Sóc Trăng Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Chị Thủy SDT:09*****712 ĐC:Châu Đốc An Giang Xe Đang Vận Chuyển
+            </li>
+            <li>
+              Anh Hữu SDT:09*****994 ĐC:Cầu Kè Trà Vinh Xe Đang Vận Chuyển
+            </li>
+          </ul>
         </div>
       </section>
     </main>
@@ -308,85 +875,9 @@
     <footer id="footer">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 col-sm-6">
-            <div class="footer-info">
-              <div class="section-title">
-                <h2>Địa chỉ</h2>
-              </div>
-              <address>
-                <p>88 Chính Kinh, Nhân Chính<br />Thanh Xuân, Hà Nội</p>
-              </address>
-
-              <ul class="social-icon">
-                <li>
-                  <a
-                    href="#"
-                    class="fa fa-facebook-square"
-                    attr="facebook icon"
-                  ></a>
-                </li>
-                <li><a href="#" class="fa fa-twitter"></a></li>
-                <li><a href="#" class="fa fa-instagram"></a></li>
-              </ul>
-
-              <div class="copyright-text">
-                <p>Copyright &copy; 2024 Otogiare</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 col-sm-6">
-            <div class="footer-info">
-              <div class="section-title">
-                <h2>Thông tin liên hệ</h2>
-              </div>
-              <address>
-                <p>+1 333 4040 5566</p>
-                <p>
-                  <a href="mailto:contact@company.com">contact@company.com</a>
-                </p>
-              </address>
-
-              <div class="footer_menu">
-                <h2>Điều hướng nhanh</h2>
-                <ul>
-                  <li><a href="index.html">Trang chủ</a></li>
-                  <li><a href="bao-hanh.html">Bảo hành</a></li>
-                  <li><a href="dat-hang.html">Đặt hàng</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 col-sm-12">
-            <div class="footer-info newsletter-form">
-              <div class="section-title">
-                <h2>Đăng ký nhận ưu đãi</h2>
-              </div>
-              <div>
-                <div class="form-group">
-                  <form action="#" method="get">
-                    <input
-                      type="email"
-                      class="form-control"
-                      placeholder="Địa chỉ mail của bạn"
-                      name="email"
-                      id="email"
-                      required
-                    />
-                    <input
-                      type="submit"
-                      class="form-control"
-                      name="submit"
-                      id="form-submit"
-                      value="Gửi"
-                    />
-                  </form>
-                  <span
-                    ><sup>*</sup> Xin lưu ý - chúng tôi không spam email của bạn.</span
-                  >
-                </div>
-              </div>
+          <div class="col-md-12 col-sm-12">
+            <div class="text-center">
+              <a href="tel:456789123"><h2>Nhân viên CSKH hỗ trợ bán xe</h2></a>
             </div>
           </div>
         </div>
@@ -400,10 +891,5 @@
     <script src="js/smoothscroll.js"></script>
     <script src="js/custom.js"></script>
   </body>
-  <script>
-    function scrollToProductStart() {
-        const productStart = document.getElementById('product-start');
-        productStart.scrollIntoView({ behavior: 'smooth' });
-    }
-</script>
+  <script src="js/_index.js"></script>
 </html>
