@@ -1,6 +1,81 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20171.jpg",
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20172.jpg",
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20173.jpg",
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20174.jpg",
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20175.jpg",
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20176.jpg",
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20177.jpg",
+"images/itemImg/Ford Ranger XLS 2017/Ford Ranger XLS 20178.jpg",
+
+
+
+
+
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20211.jpg",
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20212.jpg",
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20213.jpg",
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20214.jpg",
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20215.jpg",
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20216.jpg",
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20217.jpg",
+"images/itemImg/Hyundai Accent 2021/Hyundai Accent 20218.jpg",
+
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT01.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT02.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT03.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT04.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT05.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT06.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT07.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT08.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT09.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT10.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT11.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT12.jpg",
+"images/itemImg/Hyundai i10 Grand 1.2 AT/Hyundai i10 Grand 1.2 AT13.jpg",
+
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20191.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20192.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20193.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20194.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20195.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20196.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20197.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20198.jpg",
+"images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20199.jpg",
+"images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20231.jpg",
+"images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20232.jpg",
+"images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20233.jpg",
+"images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20234.jpg",
+"images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20235.jpg",
+"images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20236.jpg",
+"images/itemImg/INNOVA CROSS 2023/INNOVA CROSS 20237.jpg",
+"images/itemImg/Isuzu Mux 2021/Isuzu Mux 20211.jpg",
+"images/itemImg/Isuzu Mux 2021/Isuzu Mux 20212.jpg",
+"images/itemImg/Isuzu Mux 2021/Isuzu Mux 20213.jpg",
+"images/itemImg/Isuzu Mux 2021/Isuzu Mux 20214.jpg",
+"images/itemImg/Isuzu Mux 2021/Isuzu Mux 20215.jpg",
+"images/itemImg/Isuzu Mux 2021/Isuzu Mux 20216.jpg",
+"images/itemImg/Isuzu Mux 2021/Isuzu Mux 20217.jpg",
+
+
+
 "images/itemImg/KIA CARNIVAL/KIA CARNIVAL1.jpg",
 "images/itemImg/KIA CARNIVAL/KIA CARNIVAL2.jpg",
 "images/itemImg/KIA CARNIVAL/KIA CARNIVAL3.jpg",
@@ -9,6 +84,113 @@
 "images/itemImg/KIA CARNIVAL/KIA CARNIVAL6.jpg",
 "images/itemImg/KIA CARNIVAL/KIA CARNIVAL7.jpg",
 "images/itemImg/KIA CARNIVAL/KIA CARNIVAL8.jpg",
+
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202201.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202202.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202203.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202204.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202205.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202206.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202207.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202208.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202209.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202210.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202211.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202212.jpg",
+"images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202213.jpg",
+"images/itemImg/Kia Morning 2021/Kia Morning 20211.jpg",
+"images/itemImg/Kia Morning 2021/Kia Morning 20212.jpg",
+"images/itemImg/Kia Morning 2021/Kia Morning 20213.jpg",
+"images/itemImg/Kia Morning 2021/Kia Morning 20214.jpg",
+"images/itemImg/Kia Morning 2021/Kia Morning 20215.jpg",
+"images/itemImg/Kia Morning 2021/Kia Morning 20216.jpg",
+"images/itemImg/Kia Morning 2021/Kia Morning 20217.jpg",
+
+"images/itemImg/Mazda 2/Mazda 21.jpg",
+"images/itemImg/Mazda 2/Mazda 22.jpg",
+"images/itemImg/Mazda 2/Mazda 23.jpg",
+"images/itemImg/Mazda 2/Mazda 24.jpg",
+"images/itemImg/Mazda 2/Mazda 25.jpg",
+"images/itemImg/Mazda 2/Mazda 26.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan01.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan02.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan03.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan04.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan05.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan06.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan07.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan08.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan09.jpg",
+"images/itemImg/Mazda 3 2019 sedan/Mazda 3 2019 sedan10.jpg",
+
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe01.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe02.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe03.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe04.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe05.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe06.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe07.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe08.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe09.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe10.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe11.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe12.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe13.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe14.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe15.jpg",
+"images/itemImg/Mazda CX-3 Deluxe/Mazda CX-3 Deluxe16.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20231.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20232.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20233.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20234.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20235.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20236.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20237.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20238.jpg",
+"images/itemImg/Mazda CX8 2023/Mazda CX8 20239.jpg",
+
+
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202302.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202304.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202305.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202306.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202307.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202308.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202309.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202310.jpg",
+"images/itemImg/Mitsubishi Attrage 2023/Mitsubishi Attrage 202311.jpg",
+
+
+
+
+"images/itemImg/Nissan Almera 2021/Nissan Almera 20211.jpg",
+"images/itemImg/Nissan Almera 2021/Nissan Almera 20212.jpg",
+"images/itemImg/Nissan Almera 2021/Nissan Almera 20213.jpg",
+"images/itemImg/Nissan Almera 2021/Nissan Almera 20214.jpg",
+"images/itemImg/Nissan Almera 2021/Nissan Almera 20215.jpg",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

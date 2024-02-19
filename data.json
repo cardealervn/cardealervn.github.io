@@ -200,6 +200,1198 @@
                 "images/itemImg/Hyundai Tucson 2019/Hyundai Tucson 20199.jpg"
             ],
             "shortDesc": "Dung tích (cc): 1.999</br>Công suất (mã lực)/vòng tua (vòng/phút): 156/6.200</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 192/4.000</br>Hộp số: 6 AT</br>Hệ dẫn động: FWD</br>Loại nhiên liệu: Xăng</br>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 7,77</br>Số chỗ: 5</br>Kích thước dài x rộng x cao (mm): 4.630 x 1.865 x 1.695</br>Chiều dài cơ sở (mm): 2.755</br>Khoảng sáng gầm (mm): 181</br>Dung tích bình nhiên liệu (lít): 62</br>Lốp, la-zăng: 225/60 R17" 
-        }
+        },
+        {
+            "id": 13,
+            "name": "Toyota Camry 2.0G 2022",
+            "price": 392000000,
+            "imageLink": "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20221.jpg",
+            "imagePath": [
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20221.jpg",
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20222.jpg",
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20223.jpg",
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20224.jpg",
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20225.jpg",
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20226.jpg",
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20227.jpg",
+                "images/itemImg/Toyota Camry 2.0G 2022/Toyota Camry 2.0G 20228.jpg"
+            ],
+            "shortDesc": "Thông số Toyota Camry  2.0 G  2022</br>Kích thước tổng thể (mm)  4885 x 1840 x 1445</br>Dài cơ sở (mm)  2825</br>Khoảng sáng gầm xe (mm)  140</br>Bán kính vòng quay tối thiểu (m)  5.7 </br>Trọng lượng không tải (Kg)  1520</br>Trọng lượng toàn tải (Kg)  2030</br>Dung tích bình nhiên liệu (L)  70</br>Động Cơ  M20A-FKS </br>Công suất cực đại (HP/rpm)  170/6.500  </br>Mômen xoắn cực đại (N.m/rpm)  1206/4， 600  </br>Vận tốc tối đa (Km/h)  200 </br>Hộp số  CVT/ 8AT</br>Mâm/lốp xe  205/65R16"
+          },
+          {
+            "id": 14,
+            "name": "Toyota Corolla Altis V 2023",
+            "price": 278000000,
+            "imageLink": "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20231.jpg",
+            "imagePath": [
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20231.jpg",
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20232.jpg",
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20233.jpg",
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20234.jpg",
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20235.jpg",
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20236.jpg",
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20237.jpg",
+                "images/itemImg/Toyota Corolla Altis V 2023/Toyota Corolla Altis V 20238.jpg" 
+            ],
+            "shortDesc": "Kiểu động cơ: 2ZR-FBE Dung tích (cc): 1.798 Công suất (mã lực)/vòng tua (vòng/phút): 138 / 6.400 Mô-men xoắn (Nm)/vòng tua (vòng/phút): 172 / 4.000 Hộp số: CVT Hệ dẫn động: Cầu trước Loại nhiên liệu: Xăng Số chỗ: 5 Kích thước dài x rộng x cao (mm): 4.630 x 1.780 x 1.435 Chiều dài cơ sở (mm): 2.700 Khoảng sáng gầm (mm): 128 Bán kính vòng quay (mm): 5.200 Dung tích khoang hành lý (lít): 468 Dung tích bình nhiên liệu (lít): 50 Trọng lượng bản thân (kg): 1.330 Trọng lượng toàn tải (kg): 1.720 Lốp, la-zăng: 205/55R16"
+          },
+          {
+            "id": 15,
+            "name": "Suzuki XL7 2023",
+            "price": 199900000,
+            "imageLink":"images/itemImg/Suzuki XL7 2023/Suzuki XL7 202301.jpg",
+            "imagePath": [
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202301.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202302.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202303.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202304.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202305.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202306.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202307.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202308.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202309.jpg",
+                "images/itemImg/Suzuki XL7 2023/Suzuki XL7 202310.jpg"
+            ],
+            "shortDesc": "KÍCH THƯỚC & TẢI TRỌNG</br>Chiều dài tống thể(mm)  4.450</br>Chiều rộng tống thể(mm)  1.775</br>Chiều cao tổng thể(mm)  1.710</br>Chiều dài cơ sở(mm)  2.740</br>Khoảng sáng gầm xe(mm)     200</br>Số chỗ ngồi      7</br>Dung tích bình xăng(lít)      45</br>                            Tối đa(lít)      803</br>ĐÔNG CƠ & HỘP SỐ :</br>Kiểu hộp số  4AT</br>Kiểu động cơ     K15B</br>Hệ thống lái      2WD</br>Số xy lanh  4</br>Số van  16</br>Dung tích động cơ(cm3)  1.462</br>Công suất tối đa(Hp/rpm)       103/6.000"
+          },
+          {
+            "id": 16,
+            "name": "Volkswagen Tiguan 2023",
+            "price": 566000000,
+            "imageLink": "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20231.jpg",
+            "imagePath": [
+                "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20231.jpg",
+                "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20232.jpg",
+                "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20233.jpg",
+                "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20234.jpg",
+                "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20235.jpg",
+                "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20236.jpg",
+                "images/itemImg/Volkswagen Tiguan 2023/Volkswagen Tiguan 20237.jpg" 
+            ],
+            "shortDesc": "Số chỗ ngồi:7</br>Dung tích động cơ:2.00L</br>Công suất cực đại 180.00 mã lực , tại 6000.00 vòng/phút</br>Momen xoắn cực đại: 320.00 Nm , tại 1500.00 vòng/phút</br>Hộp số: 7.00 cấp</br>Kiểu dẫn động: AWD</br>Thời gian tăng tốc 0-100km:7.80</br>Mức tiêu hao nhiên liệu: 8.90l/100km</br>Số lượng túi khí: 7 túi khí"
+          },
+          {
+            "id": 17,
+            "name": "Nissan Almera 2021",
+            "price": 100000000,
+            "imageLink": "images/itemImg/Nissan Almera 2021/Nissan Almera 20211.jpg",
+            "imagePath": [
+                "images/itemImg/Nissan Almera 2021/Nissan Almera 20211.jpg",
+                "images/itemImg/Nissan Almera 2021/Nissan Almera 20212.jpg",
+                "images/itemImg/Nissan Almera 2021/Nissan Almera 20213.jpg",
+                "images/itemImg/Nissan Almera 2021/Nissan Almera 20214.jpg",
+                "images/itemImg/Nissan Almera 2021/Nissan Almera 20215.jpg" 
+            ],
+            "shortDesc": "Nissan Almera 2021 1.0Turbo.</br>Xe trang bị:</br>- Động cơ 1.0 Turbo.</br>- Hộp số Xtronic CVT, vận hành êm dịu, tiết kiệm nhiên liệu.</br>- Công nghệ thông minh hỗ trợ lái xe an toàn: Cảnh báo điểm mù, cảnh báo va chạm, khởi hành ngang dốc, ghế trẻ em Isofix, 6 túi khí, ABS, EBD, BA, Báo chống trộm,....</br>- Camera 360 độ duy nhất phân khúc.</br>Xuất xứ        Nhập</br>Tình trạng     mới </br>Dòng xe            Sedan</br>Màu ngoại          thấtTrắng</br>Màu nội thất          Hai màu</br>Số cửa               4 cửa</br>Số ghế             5 ghế</br>Nhiên liệu              Xăng</br>Hộp số                Số tự động"
+          },
+          {
+            "id": 18,
+            "name": "Honda Civic 2021",
+            "price": 263000000,
+            "imageLink": "images/itemImg/Honda Civic 2021/Honda Civic 202101.jpg",
+            "imagePath": [
+                "images/itemImg/Honda Civic 2021/Honda Civic 202101.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202102.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202103.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202104.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202105.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202106.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202107.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202108.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202109.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202110.jpg",
+                "images/itemImg/Honda Civic 2021/Honda Civic 202111.jpg"
+            ],
+            "shortDesc": "Kiểu động cơ: 1.8 i-VTEC</br>Dung tích (cc): 1.799</br>Công suất (mã lực)/vòng tua (vòng/phút): 139/6500</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 174/4300</br>Hộp số: CVT</br>Hệ dẫn động: Cầu trước</br>Loại nhiên liệu: Xăng</br>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 6,2</br>Kích thước/trọng lượng: </br>Số chỗ: 5</br>Kích thước dài x rộng x cao (mm): 4648x1799x1416</br>Chiều dài cơ sở (mm): 2.700</br>Khoảng sáng gầm (mm): 133</br>Bán kính vòng quay (mm): 5.700</br>Thể tích khoang hành lý (lít): 428</br>Dung tích bình nhiên liệu (lít): 47</br>Trọng lượng bản thân (kg): 1.238</br>Trọng lượng toàn tải (kg): 1.613</br>Lốp, la-zăng: 215/55R16"
+          },
+          {
+            "id": 19,
+            "name": "Ford 2.2L 4.4 6AT 2018",
+            "price": 258000000,
+            "imageLink":"images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20181.jpg",
+            "imagePath": [
+                "images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20181.jpg",
+                "images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20182.jpg",
+                "images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20183.jpg",
+                "images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20184.jpg",
+                "images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20185.jpg",
+                "images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20186.jpg",
+                "images/itemImg/Ford 2.2L 4.4 6AT 2018/Ford 2.2L 4.4 6AT 20187.jpg" 
+            ],
+            "shortDesc": "Động cơ dầu 2.0L</br>công suất 213 mã lực</br>mô-men xoắn 500 Nm</br>Hệ truyền động: Số tự động 10 cấp</br>dẫn động cầu sau 4x2"
+          },
+          {
+            "id": 20,
+            "name": "SH 125i",
+            "price": 43000000,
+            "imageLink":"images/itemImg/SH 125i/SH 125i01.jpg",
+            "imagePath": [
+                "images/itemImg/SH 125i/SH 125i01.jpg",
+                "images/itemImg/SH 125i/SH 125i02.jpg",
+                "images/itemImg/SH 125i/SH 125i03.jpg",
+                "images/itemImg/SH 125i/SH 125i04.jpg",
+                "images/itemImg/SH 125i/SH 125i05.jpg",
+                "images/itemImg/SH 125i/SH 125i06.jpg",
+                "images/itemImg/SH 125i/SH 125i07.jpg",
+                "images/itemImg/SH 125i/SH 125i08.jpg",
+                "images/itemImg/SH 125i/SH 125i09.jpg",
+                "images/itemImg/SH 125i/SH 125i10.jpg" 
+            ],
+            "shortDesc": "Khối lượng (kg):172</br>Dài x Rộng x Cao (mm): 2.160 x 743 x 1.162</br>Khoảng cách trục bánh xe (mm): 1.450</br>Độ cao yên (mm):  805</br>Khoảng sáng gầm xe (mm): 132</br>Kích cỡ lốp trước/sau:Trước: 110/70-16 M/C 52S Sau: 130/70R16 M/C 61S</br>Dung tích bình xăng (L): 9,3</br>Phuộc trước: Ống lồng, giảm chấn thủy lực</br>Phuộc sau: Kép, lò xo trụ, giảm chấn thủy lực</br>Loại động cơ: SOHC, 4 kỳ, xi-lanh đơn 4 van, làm mát bằng chất lỏng</br>Công suất (hp @ rpm): 28,8hp @ 7.500rpm </br>Mô-men xoắn (Nm @ rpm): 31,8Nm @ 5.250prm</br>Dung tích nhớt:  Sau khi xả: 1,4 lít Sau khi xả và vệ sinh lưới lọc: 1,5 lít</br>Sau khi rã máy: 1,85 lít</br>Mức tiêu thụ nhiên liệu: 3,63L/100km</br>Loại truyền động: Biến thiên vô cấp</br>Hệ thống khởi động: Điện</br>Dung tích xy-lanh: 329,6cc</br>Đường kính x Hành trình pít tông (mm):77 x 70,77</br>Tỷ số nén: 10,5:1"
+          },
+          {
+            "id": 21,
+            "name": "Peugeot 2008 Active",
+            "price": 263000000,
+            "imageLink":"images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active1.jpg",
+            "imagePath": [
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active1.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active2.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active3.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active4.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active5.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active6.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active7.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active8.jpg",
+                "images/itemImg/Peugeot 2008 Active/Peugeot 2008 Active9.jpg" 
+            ],
+            "shortDesc": "PEUGEOT 2008ACTIVEGT LINE</br>Kiểu dáng: SUV cỡ B</br>Số chỗ ngồi: 05</br>Dài x Rộng x Cao (mm): 4.300 x 1.770 x 1.550</br>Chiều dài cơ sở (mm): 2.605</br>Khoảng sáng gầm xe (mm): 175</br>Bán kính vòng xe (m): 5,4</br>Dung tích bình nhiên liệu (L): 44</br>Mâm/lốp xe: Hợp kim 17”, 215/60R17</br>Loại động cơ: Xăng Turbo Puretech</br>Công suất: 133 Hp</br>Mô-men xoắn: 230 Nm</br>Hộp số: 6AT</br>Hệ truyền động: FWD</br>Trọng lượng bản thân (kg): 1225</br>Trọng lượng toàn tải (kg): 1730</br>Hệ thống lái: Trợ lực điện</br>Hệ thống treo trước/sau: MacPherson/Bán độc lập</br>Hệ thống phanh trước/sau: Đĩa/Đĩa"
+          },
+          {
+            "id": 22,
+            "name": "Mitsubishi Triton 2022",
+            "price": 253000000,
+            "imageLink": "images/itemImg/Mitsubishi Triton 2022/Mitsubishi Triton 20221.jpg",
+            "imagePath": [
+                "images/itemImg/Mitsubishi Triton 2022/Mitsubishi Triton 20221.jpg",
+                "images/itemImg/Mitsubishi Triton 2022/Mitsubishi Triton 20222.jpg",
+                "images/itemImg/Mitsubishi Triton 2022/Mitsubishi Triton 20223.jpg",
+                "images/itemImg/Mitsubishi Triton 2022/Mitsubishi Triton 20224.jpg",
+                "images/itemImg/Mitsubishi Triton 2022/Mitsubishi Triton 20225.jpg",
+                "images/itemImg/Mitsubishi Triton 2022/Mitsubishi Triton 20226.jpg" 
+            ],
+            "shortDesc": "Xuất xứ: Nhật Bản <br/>Thông số kỹ thuật:<br/>Tên xe: Mitsubishi Triton Athlete 2022<br/>Số chỗ ngồi: 05<br/>Kiểu xe: Xe Bán tải (Pickup)<br/>Xuất xứ: Nhật bản<br/>Kích thước tổng thể DxRxC: 5.305 x 1.815 x 1.795 mm<br/>Kích thước thùng xe DxRxC: 1.520 x 1.470 x 475 mm<br/>Chiều dài cơ sở: 3.000 mm<br/>Động cơ: 2.4L MIVEC<br/>Loại nhiên liệu: Máy dầu<br/>Dung tích bình nhiên liệu: 75 lít<br/>Công suất cực đại: 179 mã lực tại 3.500 vòng/phút<br/>Mô-men xoắn cực đại: 430 Nm tại 2.500 vòng/phút<br/>Hộp số: Tự động 6 cấp<br/>Hệ dẫn động: 2 cầu Super Select 4WD-II<br/>Treo trước/sau: Độc lập, tay đòn kép, lò xo cuộn với thanh cân bằng/nhíp lá<br/>Phanh trước/sau: Đĩa thông gió/tang trống<br/>Trợ lực lái: Thuỷ lực<br/>Chế độ lái địa hình: Sỏi, bùn, cát và đá<br/>Cỡ mâm: 18 inch<br/>Khoảng sáng gầm xe: 220 mm"
+          },
+          {
+            "id": 23,
+            "name": "FORD RANGER XLS 4X2",
+            "price": 221000000,
+            "imageLink": "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X21.jpg",
+            "imagePath": [
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X21.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X22.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X23.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X24.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X25.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X26.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X27.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X28.jpg",
+                "images/itemImg/FORD RANGER XLS 4X2/FORD RANGER XLS 4X29.jpg" 
+            ],
+            "shortDesc": "Hộp sốSố: tự động 6 cấp</br>Động cơ: Single Turbo Diesel 2.0L i4 TDCi</br>Công suất cực đại: 170 (125 KW) / 3500</br>Mô men xoắn cực đại: 405 Nm/ 1750-2500 rpm</br>Khoảng sáng gầm xe (mm): 235</br>Kích thước xe Dài x Rộng x Cao (mm): 5362 (D) x 1918 (R) x 1875 (C)</br>Chiều dài cơ sở (mm): 3270</br>Dung tích thùng nhiên liệu (lít): 85,8</br>Tiêu chuẩn khí thải: EURO 5</br>Hệ thống đèn chiếu sáng phía trước: Cụm đèn pha LED hình chữ C</br>Đèn chạy ban ngày: Có</br>Màn hình giải trí: Màn hình cảm ứng 10 inch</br>Phanh trước/sau: Tang trống/ Đĩa</br>Cỡ mâm: 16 inch</br>Trợ lực lái điện: có </br>Camera lùi: có </br>Hệ thống kiểm soát hình trình: Ga tự động</br>Công nghệ giải trí SYNC 4: Có, kết nối không dây với Apple CarPlay® và Android AutoTM</br>Hệ thống âm thanh: AM/FM, MP3, USB, Bluetooth, 6 loa.</br>Cân bằng điện từ: Có</br>Chống bó cứng phanh, phân phối lực phanh điện từ: Có</br>Khởi hành ngang dốc: Có</br>Tích hợp bậc lên xuống thùng hàng: Có</br>Tích hợp tấm bảo vệ thành thùng hàng: Có</br>Trọng lượng của xe Ford Ranger XLS AT 4×2(kg): 2.032"
+          },
+          {
+            "id": 24,
+            "name": "HyunDai Elantra 2.0",
+            "price": 243000000,
+            "imageLink": "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.001.jpg",
+            "imagePath": [
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.001.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.002.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.003.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.004.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.005.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.006.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.007.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.008.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.009.jpg",
+                "images/itemImg/HyunDai Elantra 2.0/HyunDai Elantra 2.010.jpg" 
+            ],
+            "shortDesc": "Kiểu động cơ: I4</br>Dung tích (cc): 1.999</br>Công suất (mã lực)/vòng tua (vòng/phút): 156/6200</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 196/4000</br>Hộp số: 6 AT</br>Hệ dẫn động: FWD</br>Loại nhiên liệu: Xăng</br>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 7,66</br>Số chỗ: 5</br>Kích thước dài x rộng x cao (mm): 4620 x 1800 x 1450</br>Chiều dài cơ sở (mm): 2.700</br>Khoảng sáng gầm (mm): 150</br>Dung tích bình nhiên liệu (lít): 50</br>Trọng lượng bản thân (kg): 1.330</br>Trọng lượng toàn tải (kg): 1.780</br>Lốp, la-zăng: 225/45R17"
+          },
+          {
+            "id": 25,
+            "name": "KIA Rondo",
+            "price": 218333000,
+            "imageLink": "images/itemImg/KIA Rondo/KIA Rondo01.jpg",
+            "imagePath": [
+                "images/itemImg/KIA Rondo/KIA Rondo01.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo02.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo03.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo04.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo05.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo06.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo07.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo08.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo09.jpg",
+                "images/itemImg/KIA Rondo/KIA Rondo10.jpg" 
+            ],
+            "shortDesc": "Kiểu động cơ : 4 xi lanh thẳng hàng, 16 van DOHC, Dual CVVT 2.0</br>Dung tích (cc) : 1.999</br>Công suất (mã lực)/vòng tua (vòng/phút) : 158/6.500</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút) : 194/4.800</br>Hộp số : Số sàn 6 cấp</br>Hệ dẫn động : Cầu trước</br>Loại nhiên liệu : Xăng</br>Số chỗ : 7</br>Kích thước dài x rộng x cao (mm) : 4.525 x 1.805 x 1.610</br>Chiều dài cơ sở (mm) : 2.750</br>Khoảng sáng gầm (mm) : 151</br>Bán kính vòng quay (mm) : 5.500</br>Dung tích bình nhiên liệu (lít) : 58</br>Trọng lượng bản thân (kg) : 1.490</br>Trọng lượng toàn tải (kg) : 2.120</br>Lốp, la-zăng : 225/45R17/Mâm đúc hợp kim nhôm"
+          },
+          {
+            "id": 26,
+            "name": "Elantra N Line 2022",
+            "price":220000000,
+            "imageLink": "images/itemImg/Elantra N Line 2022/Elantra N Line 20221.jpg",
+            "imagePath": [
+                "images/itemImg/Elantra N Line 2022/Elantra N Line 20221.jpg",
+                "images/itemImg/Elantra N Line 2022/Elantra N Line 20222.jpg",
+                "images/itemImg/Elantra N Line 2022/Elantra N Line 20223.jpg",
+                "images/itemImg/Elantra N Line 2022/Elantra N Line 20224.jpg",
+                "images/itemImg/Elantra N Line 2022/Elantra N Line 20225.jpg",
+                "images/itemImg/Elantra N Line 2022/Elantra N Line 20226.jpg",
+                "images/itemImg/Elantra N Line 2022/Elantra N Line 20227.jpg" 
+            ],
+            "shortDesc": "Động cơ/hộp số</br>Kiểu động cơ : I4 Turbo</br>Dung tích (cc) : 1.591 </br>Công suất (mã lực)/vòng tua (vòng/phút) : 204/6000 </br>Mô-men xoắn (Nm)/vòng tua (vòng/phút) : 265/1500~5400 </br>Hộp số : 7 DCT </br>Hệ dẫn động : FWD </br>Loại nhiên liệu : Xăng </br>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km) : 5,83 </br>Kích thước/trọng lượng</br>Trọng lượng bản thân (kg) : 1.400</br>Trọng lượng toàn tải (kg) : 1.850</br>Lốp, la-zăng : 235/40 R18 </br>Số chỗ : 5 </br>Kích thước dài x rộng x cao (mm) : 4675 x 1825 x 1440 </br>Chiều dài cơ sở (mm) : 2.720 </br>Khoảng sáng gầm (mm) : 150 </br>Dung tích bình nhiên liệu (lít) : 47 "
+          },
+          {
+            "id": 27,
+            "name": "Toyota Hilux 2023",
+            "price": 243000000,
+            "imageLink": "images/itemImg/Toyota Hilux 2023/Toyota Hilux 20231.jpg",
+            "imagePath": [
+                "images/itemImg/Toyota Hilux 2023/Toyota Hilux 20231.jpg",
+                "images/itemImg/Toyota Hilux 2023/Toyota Hilux 20232.jpg",
+                "images/itemImg/Toyota Hilux 2023/Toyota Hilux 20233.jpg",
+                "images/itemImg/Toyota Hilux 2023/Toyota Hilux 20234.jpg",
+                "images/itemImg/Toyota Hilux 2023/Toyota Hilux 20235.jpg" 
+            ],
+            "shortDesc": "</br>Kiểu động cơ : 2GD-FTV (2.4L)</br>Dung tích (cc) : 2.393</br>Công suất (mã lực)/vòng tua (vòng/phút) : 147/3400</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút) : 400/1600</br>Hộp số : 6MT</br>Hệ dẫn động : RWD</br>Loại nhiên liệu : Diesel</br>Số chỗ : 5 </br>Kích thước dài x rộng x cao (mm) : 5325 x 1855 x 1815</br>Chiều dài cơ sở (mm) : 3.085</br>Khoảng sáng gầm (mm) : 286</br>Bán kính vòng quay (mm) : 6.400</br>Dung tích bình nhiên liệu (lít) : 80</br>Trọng lượng bản thân (kg) : 1.910</br>Trọng lượng toàn tải (kg) : 2.810</br>Lốp, la-zăng : 265/65R17"
+          },
+          {
+            "id": 28,
+            "name": "Toyota Hilux",
+            "price": 284000000,
+            "imageLink":"images/itemImg/Toyota Hilux/Toyota Hilux01.jpg",
+            "imagePath": [
+                "images/itemImg/Toyota Hilux/Toyota Hilux01.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux02.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux03.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux04.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux05.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux06.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux07.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux08.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux09.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux10.jpg",
+                "images/itemImg/Toyota Hilux/Toyota Hilux11.jpg" 
+            ],
+            "shortDesc": "= > xuất xư tại  : Thái Lan</br>=> Thông số kỹ thuật</br>=>Động cơ/hộp số</br>Kiểu động cơ : 2GD-FTV (2.4L)</br>Dung tích (cc) : 2.393</br>Công suất (mã lực)/vòng tua (vòng/phút) : 147/3400</br>Mô-men xoắn (Nm)/vòng tua (vòng/phút) : 400/1600</br>Hộp số : 6MT</br>Hệ dẫn động : RWD</br>Loại nhiên liệu : Diesel</br>=> Kích thước/trọng lượng</br>Số chỗ : 5</br>Kích thước dài x rộng x cao (mm) : 5325 x 1855 x 1815</br>Chiều dài cơ sở (mm) : 3.085</br>Khoảng sáng gầm (mm) : 286</br>Bán kính vòng quay (mm) : 6.400</br>Dung tích bình nhiên liệu (lít) : 80</br>Trọng lượng bản thân (kg) : 1.910</br>Trọng lượng toàn tải (kg) : 2.810</br>Lốp, la-zăng : 265/65R17</br>=> Hệ thống treo/phanh</br>Treo trước : Tay đòn kép</br>Treo sau : Nhíp lá</br>Phanh trước : Đĩa thông gió</br>Phanh sau : Tang trống "
+          },
+          {
+            "id": 29,
+            "name": "SH MODE",
+            "price": 31000000,
+            "imageLink": "images/itemImg/SH MODE/SH MODE01.jpg",
+            "imagePath": [
+                "images/itemImg/SH MODE/SH MODE01.jpg",
+                "images/itemImg/SH MODE/SH MODE02.jpg",
+                "images/itemImg/SH MODE/SH MODE03.jpg",
+                "images/itemImg/SH MODE/SH MODE04.jpg",
+                "images/itemImg/SH MODE/SH MODE05.jpg",
+                "images/itemImg/SH MODE/SH MODE06.jpg",
+                "images/itemImg/SH MODE/SH MODE07.jpg",
+                "images/itemImg/SH MODE/SH MODE08.jpg",
+                "images/itemImg/SH MODE/SH MODE09.jpg",
+                "images/itemImg/SH MODE/SH MODE10.jpg",
+                "images/itemImg/SH MODE/SH MODE11.jpg" 
+            ],
+            "shortDesc": "Số chỗ ngồi: 2</br>Độ cao yên:765mm</br>Khoảng cách trục bánh xe:1304mm</br>Độ cao gầm xe:130mm</br>Trọng lượng:116kg</br>Kích thước: 195 × 66.9 × 110 cm</br>Dung tích cốp:18,5L</br>Màu sắc:  Bạc Đen, Đen, Đỏ Đen, Trắng Đen, Xám đen, Xanh Đen</br>Năm ra mắt:2022</br>Xuất xứ thương hiệu: Nhật Bản</br>Đèn trước:LED</br>Đèn hậu:Halogen</br>Đồng hồ / Màn hình xe: AnalogLCD</br>Loại truyền động:Truyền động bằng đai</br>Động cơ:Máy xăng 1xy-lanh 4van  4 kỳ</br>Hệ thống cung cấp nhiên liệu:Phun xăng điện tử</br>Hệ thống làm mát:Dung dịch làm mát</br>Hộp số:Tự động   Vô cấp</br>Dung tích xy-lanh:25cc</br>Đường kính pít tông:53,5mm</br>Hành trình pít tông: 55,5mm</br>Tỷ số nén:11,5:1</br>Công suất tối đa:8,2kW tại 8500rpm</br>Hệ thống khởi động: Điện</br>Dung tích nhớt máy:0,9L</br>Dung tích bình xăng:5,6L</br>Mức tiêu thụ nhiên liệu:2,16L/100km          </br>Sạc ngược:1 cổng USB-A                  </br>Lốp trước:80/90-16, 43P</br>Lốp sau:100/90-14, 57P</br>Phuộc trước:Ống lồng, Giảm chấn thủy lực</br>Phuộc sau:1 lò xo trụ</br>Phanh trước: Phanh đĩaTích hợp ABS</br>Phanh sau:Phanh cơ</br>Công nghệ tích hợp: Hệ thống ngắt động cơ tạm thời    Phanh ABS 1 kênh</br>Tiện ích khác: Công tắc chân chống bên</br>Bảo mật: SMART key"
+          },
+          {
+            "id": 30,
+            "name": "Chevrolet Colorado 2021",
+            "price": 263000000,
+            "imageLink": "images/itemImg/Chevrolet Colorado 2021/Chevrolet Colorado 20211.jpg",
+            "imagePath": [
+                "images/itemImg/Chevrolet Colorado 2021/Chevrolet Colorado 20211.jpg",
+                "images/itemImg/Chevrolet Colorado 2021/Chevrolet Colorado 20212.jpg",
+                "images/itemImg/Chevrolet Colorado 2021/Chevrolet Colorado 20213.jpg",
+                "images/itemImg/Chevrolet Colorado 2021/Chevrolet Colorado 20214.jpg",
+                "images/itemImg/Chevrolet Colorado 2021/Chevrolet Colorado 20215.jpg",
+                "images/itemImg/Chevrolet Colorado 2021/Chevrolet Colorado 20216.jpg" 
+            ],
+            "shortDesc": "=> Thông số kỹ thuật </br>=> Xuất xứ : Mỹ </br>Kích thước: tổng thể  (DxRxC) 5408 x 1874 x 1852 (mm); </br>Chiều dài cơ sở:  3,096 (mm);</br> Khoảng sáng gầm xe:  217 (mm)</br>Kích thước thùng xe:  (DxR) 1484 x 1534 (mm)</br>Góc thoát không tải trước/sau : 28.8/23.3 (độ)</br>Kích thước lốp:  265/60R18</br>Kích thước lốp dự phòng:  245/70R16</br>Khối lượng bản thân:  1914- 2,060 (Kg);</br> Khối lượng hàng chuyên chở theo thiết kế:  600 (Kg); </br>Khối lượng toàn bộ theo thiết kế:  2,970 (Kg)</br>Động cơ: Loại động cơ Diesel, 2.5L VGT, DI, DOHC, Turbo </br>Công suất cực đại : 180 / 3600 (hp / rpm); </br>Mô men xoắn cực đại:  440/2000 (Nm / rpm). </br>Tiêu chuẩn khí thải:  Euro 4 khá an tâm.</br>Hộp số sàn : 6 cấp, tự động 6 cấp</br>Cài cầu bằng : điện</br>Khả năng lội nước :  800 mm"
+          },
+          {
+            "id": 31,
+            "name": "Honda SH 350i",
+            "price": 80000000,
+            "imageLink": "images/itemImg/Honda SH 350i/Honda SH 350i1.jpg",
+            "imagePath": [
+                "images/itemImg/Honda SH 350i/Honda SH 350i1.jpg",
+                "images/itemImg/Honda SH 350i/Honda SH 350i2.jpg",
+                "images/itemImg/Honda SH 350i/Honda SH 350i3.jpg",
+                "images/itemImg/Honda SH 350i/Honda SH 350i4.jpg",
+                "images/itemImg/Honda SH 350i/Honda SH 350i5.jpg" 
+            ],
+            "shortDesc": "Công suất tối đa: 21,5 kW tại 7.500 vòng/phút<br/>Độ cao yên: 805 mm<br/>Hệ thống cung cấp nhiên liệu: Phun xăng điện tử FI<br/>Dung tích nhớt máy: 1,4 L khi thay nhớt; 1,5 L khi thay nhớt và vệ sinh lưới lọc<br/>Dung tích xy-lanh: 329,6 cc<br/>Loại động cơ: eSP+, SOHC, 4 kỳ, 4 van làm mát dung dịch<br/>Hộp số: Vô cấp<br/>Cỡ lốp trước/sau: 110/70-16 và 130/70-16<br/>Dài x Rộng x Cao: 2.160 mm x 743 mm x 1.162 mm<br/>Phanh trước/sau: Phanh đĩa; Phanh đĩa"
+          },          
+          {
+            "id": 32,
+            "name": "CHEVROLET CRUZE 2023",
+            "price": 196000000,
+            "imageLink": "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20231.jpg",
+            "imagePath": [
+                "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20231.jpg",
+                "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20232.jpg",
+                "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20233.jpg",
+                "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20234.jpg",
+                "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20235.jpg",
+                "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20236.jpg",
+                "images/itemImg/CHEVROLET CRUZE 2023/CHEVROLET CRUZE 20237.jpg" 
+            ],
+            "shortDesc": "=> Thông số kỹ thuật: Cruze 1.6LT<br/>Số chỗ ngồi: 05<br/>Kích thước DxRxC: 4640 x 1797 x 1478 (mm)<br/>Chiều dài cơ sở: 2685mm<br/>Khoảng sáng gầm: 160mm<br/>Bán kính vòng quay: 5,45m<br/>Tự trọng: 1370kg<br/>Động cơ: Xăng, 1.6L, DOHC, MFI, I4<br/>Dung tích: 1598cc<br/>Công suất cực đại: 107Hp / 6000rpm<br/>Mô-men xoắn cực đại: 150Nm / 4000 rpm<br/>Hộp số: 5MT<br/>Mức tiêu hao nhiên liệu: 8,1L/100km<br/>Tiêu chuẩn khí xả: Euro 4<br/>Lốp xe: 205/60R16<br/>Bình xăng: 60L"
+          },          
+          {
+            "id": 33,
+            "name": "AVANZA",
+            "price": 219000000,
+            "imageLink": "images/itemImg/AVANZA/AVANZA01.jpg",
+            "imagePath": [
+                "images/itemImg/AVANZA/AVANZA01.jpg",
+                "images/itemImg/AVANZA/AVANZA02.jpg",
+                "images/itemImg/AVANZA/AVANZA03.jpg",
+                "images/itemImg/AVANZA/AVANZA04.jpg",
+                "images/itemImg/AVANZA/AVANZA05.jpg",
+                "images/itemImg/AVANZA/AVANZA06.jpg",
+                "images/itemImg/AVANZA/AVANZA07.jpg",
+                "images/itemImg/AVANZA/AVANZA08.jpg",
+                "images/itemImg/AVANZA/AVANZA09.jpg",
+                "images/itemImg/AVANZA/AVANZA10.jpg",
+                "images/itemImg/AVANZA/AVANZA11.jpg",
+                "images/itemImg/AVANZA/AVANZA12.jpg" 
+            ],
+            "shortDesc": "Động cơhộp số Kiểu động cơ: 2NR-VE 1.5 Dung tích (cc): 1.496 Công suất (mã lực)vòng tua (vòngphút): 1056.000 Mô-men xoắn (Nm)vòng tua (vòngphút): 1384.200 Hộp số: CVT Hệ dẫn động: Cầu trước Loại nhiên liệu: Xăng Mức tiêu thụ nhiên liệu đường hỗn hợp (lít100 km): 6,3 Kích thướctrọng lượng: Số chỗ: 7 Kích thước dài x rộng x cao (mm): 4.475 x 1.750 x 1.700 Chiều dài cơ sở (mm): 2.750 Khoảng sáng gầm (mm): 205 Bán kính vòng quay (mm): 4.900 Dung tích khoang hành lý (lít): 498 Dung tích bình nhiên liệu (lít): 43 Trọng lượng bản thân (kg): 1.160 Trọng lượng toàn tải (kg): 1.735 Lốp, la-zăng: 19560R16"
+          },
+          {
+            "id": 34,
+            "name": "Toyota Veloz 2023",
+            "price": 219000000,
+            "imageLink": "images/itemImg/Toyota Veloz 2023/Toyota Veloz 20231.jpg",
+            "imagePath": [
+                "images/itemImg/Toyota Veloz 2023/Toyota Veloz 20231.jpg",
+                "images/itemImg/Toyota Veloz 2023/Toyota Veloz 20232.jpg",
+                "images/itemImg/Toyota Veloz 2023/Toyota Veloz 20233.jpg",
+                "images/itemImg/Toyota Veloz 2023/Toyota Veloz 20234.jpg",
+                "images/itemImg/Toyota Veloz 2023/Toyota Veloz 20235.jpg",
+                "images/itemImg/Toyota Veloz 2023/Toyota Veloz 20236.jpg" 
+            ],
+            "shortDesc": "Danh mục: Toyota Veloz 2023<br/>Phân khúc: MPV 7 chỗ<br/>Nguồn gốc: Nhập khẩu Indonesia<br/>Kích thước tổng thể Dài x Rộng x Cao (mm): 4.475 x 1.750 x 1.700<br/>Chiều dài cơ sở (mm): 2.770<br/>Khoảng sáng gầm xe (mm): 205<br/>Dung tích bình nhiên liệu (L): 43<br/>Loại động cơ: 1.5L, 2NR-VE 4 xi-lanh thẳng hàng, 16 van DOHC với Dual VVT-i<br/>Dung tích xy lanh (cm3): 1.496<br/>Công suất tối đa (HP/ rpm): 106/ 6.000<br/>Mô men xoắn tối đa (Nm/ rpm): 137/ 4.200<br/>Hộp số: CVT<br/>Hệ dẫn động: FWD<br/>Hệ thống treo trước/sau: MacPherson Strut/Thanh xoắn<br/>Phanh trước/sau: Đĩa/Đĩa: Lạ-zăng, 16-17 inch"
+          },          
+          {
+            "id": 35,
+            "name": "Toyota Raize",
+            "price": 184000000,
+            "imageLink": "images/itemImg/Toyota Raize/Toyota Raize1.jpg",
+            "imagePath": [
+                "images/itemImg/Toyota Raize/Toyota Raize1.jpg",
+                "images/itemImg/Toyota Raize/Toyota Raize2.jpg",
+                "images/itemImg/Toyota Raize/Toyota Raize3.jpg",
+                "images/itemImg/Toyota Raize/Toyota Raize4.jpg",
+                "images/itemImg/Toyota Raize/Toyota Raize5.jpg",
+                "images/itemImg/Toyota Raize/Toyota Raize6.jpg",
+                "images/itemImg/Toyota Raize/Toyota Raize7.jpg",
+                "images/itemImg/Toyota Raize/Toyota Raize8.jpg" 
+            ],
+            "shortDesc": "xuất xứ : Indonesia<br/>Kích thước tổng thể bên ngoài (D x R X C) (mm) :  4.030 x 1.710 x 1.605<br/>Chiều dài cơ sở (mm) :  2.525<br/>Chiều rộng cơ sở (mm) : 1.475/1.470<br/>Khoảng sáng gầm xe (mm) : 200<br/>Bán kính vòng quay tối thiểu (m) : 5.1<br/>Trọng lượng thân xe (kg) : 1.035<br/>Dung tích bình nhiên liệu (L) : 36<br/>Dung tích động cơ (cc) : 998<br/>Loại động cơ : Tăng áp<br/>Công suất tối đa ((KW) HP/vòng/phút) : 98/6.000<br/>Momen xoắn tối đa (Nm/vòng/phút) : 140/2.400 - 4.000<br/>Tiêu chuẩn khí thải : Euro 5<br/>Các chế độ lái : Power<br/>Hộp số : Biến thiên vô cấp/ CVT<br/>Lẫy chuyển số : Có<br/>Hệ thống treo <br/> Trước :Mc Pherson<br/>Sau : Phụ thuộc kiểu dầm xoắn<br/>Hệ thống lái : Trợ lực điện<br/>Vành & Lốp xe<br/>Kích thước lốp : 205/60R17<br/>Chất liệu : Hợp kim nhôm<br/>Phanh<br/>Trước : Đĩa<br/>Sau : Tang trống<br/>Tiêu thụ nhiên liệu : (L/100km)<br/>Ngoài đô thị : 4.8<br/>Kết hợp : 5.6<br/>Trong đô thị : 7.0"
+          },
+          {
+            "id": 36,
+            "name": "Suzuki XL7",
+            "price": 200000000,
+            "imageLink": "images/itemImg/Suzuki XL7/Suzuki XL71.jpg",
+            "imagePath": [
+                "images/itemImg/Suzuki XL7/Suzuki XL71.jpg",
+                "images/itemImg/Suzuki XL7/Suzuki XL72.jpg",
+                "images/itemImg/Suzuki XL7/Suzuki XL73.jpg",
+                "images/itemImg/Suzuki XL7/Suzuki XL74.jpg",
+                "images/itemImg/Suzuki XL7/Suzuki XL75.jpg",
+                "images/itemImg/Suzuki XL7/Suzuki XL76.jpg",
+                "images/itemImg/Suzuki XL7/Suzuki XL77.jpg",
+                "images/itemImg/Suzuki XL7/Suzuki XL78.jpg" 
+            ],
+            "shortDesc": "Thông số Suzuki XL7 <br/>Dài x Rộng x Cao (mm) :  4.450 x 1.775 x 1.710<br/>Chiều dài cơ sở (mm) : 2.740<br/>Trọng lượng không tải (kg) : 1.515<br/>Trọng lượng toàn tải (kg) : 1.530<br/>Khoảng sáng gầm xe (mm) : 200<br/>Bán kính vòng quay tối thiểu (m) : 5,2<br/>Thể tích khoang hành lý (lít) : 803<br/>Thể tích bình nhiên liệu (l) : 45<br/>Thông số động cơ<br/>Loại động cơ : Xăng 1.5L 4 xy-lanh K15B<br/>Dung tích xy-lanh (cm3) : 1.462<br/>Công suất cực đại (hp/rpm) : 103/6.000<br/>Mô-men xoắn cực đại (Nm/rpm) : 138/4.400<br/>Hệ dẫn động : Cầu trước<br/>Hộp số : số tự động 4 cấp"
+          },
+          {
+            "id": 37,
+            "name": "Rebel 500",
+            "price": 60000000,
+            "imageLink": "images/itemImg/Rebel 500/Rebel 5001.jpg",
+            "imagePath": [
+                "images/itemImg/Rebel 500/Rebel 5001.jpg",
+                "images/itemImg/Rebel 500/Rebel 5002.jpg",
+                "images/itemImg/Rebel 500/Rebel 5003.jpg",
+                "images/itemImg/Rebel 500/Rebel 5004.jpg",
+                "images/itemImg/Rebel 500/Rebel 5005.jpg" 
+            ],
+            "shortDesc": "Khối lượng bản thân:199 kg<br/>Dài x Rộng x Cao: 2.155 mm x 830 mm x 1.410 mm<br/>Khoảng cách trục bánh xe:1.445 mm<br/>Độ cao yên: 830 mm<br/>Khoảng sáng gầm xe:180 mm<br/>Dung tích bình xăng:17,5 lít<br/>Kích cỡ lớp trước/ sau:  Lốp trước: 110/80R19 Lốp sau: 160/60R17<br/>Phuộc trước: Hành trình ngược Showa SFF-BP 41mm<br/>Phuộc sau: Lò xo trụ đơn, giảm chấn thủy lực, 5 cấp độ điều chỉnh tải trước lò xo<br/>Loại động cơ: 4kỳ, 2 xy-lanh, làm mát bằng chất lỏng<br/>Công suất tối đa:35 kW tại 8.600 vòng/phút<br/>Dung tích nhớt máy: Sau khi xả: 2,4 lít Sau khi xả và thay lọc nhớt động cơ: 2,6 lít                                                                               <br/>Mức tiêu thụ nhiên liệu:3,59 lít/100 km<br/>Hộp số: 6 cấp<br/>Loại truyền động:Côn tay 6 số<br/>Hệ thống khởi động: Điện<br/>Moment cực đại:43 Nm tại 6.500 vòng/phút<br/>Dung tích xy-lanh: 471 cc<br/>Đường kính x Hành trình pít tông: 67,0 mm x 66,8 mm<br/>Tỷ số nén:10,7:1"
+          },
+          {
+            "id": 38,
+            "name": "Winer X 2022",
+            "price": 26000000,
+            "imageLink": "images/itemImg/Winer X 2022/Winer X 20221.jpg",
+            "imagePath": [
+                "images/itemImg/Winer X 2022/Winer X 20221.jpg",
+                "images/itemImg/Winer X 2022/Winer X 20222.jpg",
+                "images/itemImg/Winer X 2022/Winer X 20223.jpg",
+                "images/itemImg/Winer X 2022/Winer X 20224.jpg",
+                "images/itemImg/Winer X 2022/Winer X 20225.jpg" 
+            ],
+            "shortDesc": "Độ cao yên : 795 mm <br/>Dung tích nhớt máy : 1.1 lít khi thay nhớt - 1.3 lít khi rã máy<br/>Dung tích xy-lanh : 149,1 cm3<br/>Loại động cơ : PGM-FI, 4 kỳ, DOHC, xy-lanh đơn, côn 6 số, làm mát bằng dung dịch<br/>Hộp số : Côn tay 6 số<br/>Cỡ lốp trước/sau : Trước: 90/80-17M/C 46P Sau: 120/70-17M/C 58P<br/>Dài x Rộng x Cao : 2.019 x 727 x 1.088 mm<br/>Công suất tối đa : 11,5kW/9.000 vòng/phút<br/>Phanh trước/sau: Phanh đĩa ABS;Phanh đĩa<br/>Dung tích bình xăng : 4,5 lít"
+          },
+          {
+            "id": 39,
+            "name": "Yamaha XSR 155",
+            "price": 32000000,
+            "imageLink": "images/itemImg/Yamaha XSR 155/Yamaha XSR 1551.jpg",
+            "imagePath": [
+                "images/itemImg/Yamaha XSR 155/Yamaha XSR 1551.jpg",
+                "images/itemImg/Yamaha XSR 155/Yamaha XSR 1552.jpg",
+                "images/itemImg/Yamaha XSR 155/Yamaha XSR 1553.jpg",
+                "images/itemImg/Yamaha XSR 155/Yamaha XSR 1554.jpg",
+                "images/itemImg/Yamaha XSR 155/Yamaha XSR 1555.jpg",
+                "images/itemImg/Yamaha XSR 155/Yamaha XSR 1556.jpg",
+                "images/itemImg/Yamaha XSR 155/Yamaha XSR 1557.jpg" 
+            ],
+            "shortDesc": "Tốc độ tối đa : 136 kmph <br/>Mô-men xoắn cực đại RPM : 8500 rpm <br/>Số xi lanh : 1 <br/>Công suất tối đa RPM : 10000 rpm <br/>Mô-men xoắn cực đại ( Nm ) : 14.7 Nm <br/>Số kì : 4-Stroke <br/>Dung tích ( cc ) : 155<br/>KÍCH THƯỚC <br/>Dài : 2007 mm <br/>Cao : 1080 mm <br/>Rộng : 804 mm <br/>Trọng lượng ( kg ) : 134kg <br/>Yên xe : 2 <br/>Dung tích bình xăng : 1.5L <br/>BÁNH RĂNG VÀ HỘP SỐ <br/>Hộp số : 6-Kecepatan <br/>Kiểu truyền tải : Manual <br/>LOẠI KHUNG VÀ HỆ THỐNG TREO <br/>Khoảng sáng gầm xe : 170 mm <br/>Chiều cao yên : 810 mm <br/>Hệ thống treo sau : Monoshock <br/>Hệ thống treo trước : Telescopic Fork <br/>KÍCH THƯỚC BÁNH XE VÀ LỐP <br/>Kích thước bánh sau : R17 <br/>Kích thước bánh trước : R17 <br/>Lốp trước : 110/70 R17 <br/>Lốp sau : 140/70 R17<br/>Loại lốp : Radial tire <br/>          4,5 lít"
+          },
+          {
+            "id": 40,
+            "name": "Ducati Scrambler Racer",
+            "price": 143633000,
+            "imageLink": "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer01.jpg",
+            "imagePath": [
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer01.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer02.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer03.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer04.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer05.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer06.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer07.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer08.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer09.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer10.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer11.jpg",
+                "images/itemImg/Ducati Scrambler Racer/Ducati Scrambler Racer12.jpg" 
+            ],
+            "shortDesc": "THÔNG SỐ KỸ THUẬT <br/>Thượng hiệu : Ducati <br/>Dòng xe :  Ducati Scrambler Cafe Racer<br/>Công suất tối đa : 75 hp <br/>Năm sản suất : 2021 <br/>Loại động cơ : L-Twin Cylinder,Desmodromic 2-Valves per Cylinder<br/>Bắt đầu các tùy chọn : Electric<br/>Loại : Street<br/>Kiểu truyền tải : Manual<br/>Loại nhiên liệu : Xăng <br/>ĐỘNG CƠ VÀ HIỆU SUẤT <br/>Tốc độ tối đa : 201 kmph <br/>Mô-men xoắn cực đại RPM : 5750 rpm <br/>Số xi lanh : 2 <br/>Công suất tối đa RPM : 8250 rpm <br/>Mô-men xoắn cực đại : ( Nm ) : 67 Nm <br/>Số kì : 4-Stroke <br/>Dung tích ( cc ) : 803 "
+          },
+          {
+            "id": 41,
+            "name": "Vison",
+            "price": 20300000,
+            "imageLink": "images/itemImg/Vison/Vison1.jpg",
+            "imagePath": [
+                "images/itemImg/Vison/Vison1.jpg",
+                "images/itemImg/Vison/Vison2.jpg",
+                "images/itemImg/Vison/Vison3.jpg",
+                "images/itemImg/Vison/Vison4.jpg",
+                "images/itemImg/Vison/Vison5.jpg",
+                "images/itemImg/Vison/Vison6.jpg" 
+            ],
+            "shortDesc": "Xuất Xứ do Honda Việt Nam (HVN) sản xuất trong nước ngày 29/10/21<br/>Tên xe  : Vision 2022<br/>Kiểu xe : Tay ga<br/>Xuất xứ : Lắp ráp trong nước                      <br/>Kích thước DxRxC:1.871 x 686 x 1.101 mm<br/>Khoảng cách 2 trục bánh xe:1.255mm<br/>Chiều cao yên xe: 761mm<br/>Dung tích cốp xe:16 lít<br/>Động cơ: eSP dung tích 110 cc<br/>Dung tích bình xăng:4,9 lít<br/>Công suất cực đại:8,8 mã lực tại 7.500 vòng/phút<br/>Mô-men xoắn cực đại:9,23 Nm tại 5.500 vòng/phút<br/>Hộp số: Vô cấp<br/>Treo trước/sau: Ống lồng, giảm chấn thủy lực/lò xo trụ đơn, giảm chấn thủy lực<br/>Cỡ mâm: 14 inch, 16 inch<br/>Khoảng sáng gầm xe: 120 mm<br/>Mức tiêu hao nhiên liệu trung bình: 1.88L/100km"
+          },
+          {
+            "id": 42,
+            "name": "Ford Everest 2023",
+            "price": 366700000,
+            "imageLink": "images/itemImg/Ford Everest 2023/Ford Everest 20231.jpg",
+            "imagePath": [
+                "images/itemImg/Ford Everest 2023/Ford Everest 20231.jpg",
+                "images/itemImg/Ford Everest 2023/Ford Everest 20232.jpg",
+                "images/itemImg/Ford Everest 2023/Ford Everest 20233.jpg",
+                "images/itemImg/Ford Everest 2023/Ford Everest 20234.jpg",
+                "images/itemImg/Ford Everest 2023/Ford Everest 20235.jpg",
+                "images/itemImg/Ford Everest 2023/Ford Everest 20236.jpg",
+                "images/itemImg/Ford Everest 2023/Ford Everest 20237.jpg" 
+            ],
+            "shortDesc": "Kiểu dáng xe: SUV-D<br/>Số chỗ ngồi: 7 chỗ<br/>Chiều dài cơ sở: 2.900mm<br/>Chiều Dài x Rộng x Cao: 4.914 x 1.923 x 1.842mm<br/>Khoảng sáng gầm xe: 200mm<br/>Nguồn gốc xuất xứ: FORD Motor - Mỹ"
+          },
+          {
+            "id": 43,
+            "name": "Ford Ranger xls 2017 AT",
+            "price": 140000000,
+            "imageLink": "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT1.jpg",
+            "imagePath": [
+                "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT1.jpg",
+                "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT2.jpg",
+                "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT3.jpg",
+                "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT4.jpg",
+                "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT5.jpg",
+                "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT6.jpg",
+                "images/itemImg/Ford Ranger xls 2017 AT/Ford Ranger xls 2017 AT7.jpg" 
+            ],
+            "shortDesc": "<br/>Tên : Ford  Ranger xls 2017<br/>Dài x rộng x cao (mm): 5351 x 1850 x 1821<br/>Loại cabin: Cabin kép<br/>Vệt bánh xe trước (mm): 1560<br/>Vệt bánh xe sau (mm): 1560<br/>Khoảng sáng gầm xe (mm): 200<br/>Chiều dài cơ sở (mm): 3220<br/>Bán kính vòng quay tối thiểu (mm): 6350<br/>Trọng lượng toàn bộ xe tiêu chuẩn (kg): 3200<br/>Trọng lượng không tải xe tiêu chuẩn (kg) :2169<br/>Tải trọng định mức xe tiêu chuẩn (kg): 706<br/>Góc thoát trước (độ): 23.7-25.5<br/>Góc thoát sau (độ) : 20.3-20.9<br/>Kích thước thùng hàng (Dài x Rộng x Cao) : 1613 x 1850 x 511<br/>Động cơ :Động cơ Turbo Diesel 3.2L i5 TDCi, trục cam kép, có làm mát khí nạp<br/>Dung tích xi lanh (cc) : 3198<br/>Đường kính x Hành trình (mm) : 89,9 x 100,76<br/>Công suất cực đại (Hp/vòng/phút) : 200 / 3000<br/>Mô men xoắn cực đại (Nm/vòng/phút) : 470 / 1750- 2500<br/>Tiêu chuẩn khí thải : EURO 4<br/>Dung tích thùng nhiên liệu (lít): 80 Lít<br/>Hệ thống truyền động :Hai cầu chủ động / 4×4<br/>Hộp số :Số tự động 6 cấp<br/>Ly hợp :Đĩa ma sát đơn, điều khiển bằng thủy lực với lò xò đĩa<br/>Hệ thống treo sau: Loại nhíp với ống giảm chấn<br/>Hệ thống treo trước : Hệ thống treo độc lập, tay đòn kép, lo xo trụ và ống giảm chấn<br/>Khả năng lội nước (mm) : 800"
+          },
+          {
+            "id": 44,
+            "name": "Toyota Hilux 2.4e 4x2 at",
+            "price": 224000000,
+            "imageLink": "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at1.jpg",
+            "imagePath": [
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at1.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at2.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at3.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at4.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at5.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at6.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at7.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at8.jpg",
+                "images/itemImg/Toyota Hilux 2.4e 4x2 at/Toyota Hilux 2.4e 4x2 at9.jpg" 
+            ],
+            "shortDesc": "Động cơ/hộp số<br/>Kiểu động cơ: 2GD-FTV (2.4L)<br/>Dung tích (cc): 2.393<br/>Công suất (mã lực)/vòng tua (vòng/phút): 147/3400<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 400/1600<br/>Hộp số: 6AT<br/>Hệ dẫn động: RWD<br/>Loại nhiên liệu: Diesel<br/>Kích thước/trọng lượng: <br/>Số chỗ: 5<br/>Kích thước dài x rộng x cao (mm): 5325 x 1855 x 1815<br/>Chiều dài cơ sở (mm): 3.085<br/>Khoảng sáng gầm (mm): 286<br/>Bán kính vòng quay (mm): 6.400<br/>Dung tích bình nhiên liệu (lít): 80<br/>Trọng lượng bản thân (kg): 1.915<br/>Trọng lượng toàn tải (kg): 2.810<br/>Lốp, la-zăng: 265/65R17"
+          },
+          {
+            "id": 45,
+            "name": "2023 Rolls-Royce Cullinan",
+            "price": 14000000000,
+            "imageLink": "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan01.jpg",
+            "imagePath": [
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan01.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan02.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan03.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan04.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan05.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan06.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan07.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan08.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan09.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan10.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan11.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan12.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan13.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan14.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan15.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan16.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan17.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan18.jpg",
+                "images/itemImg/2023 Rolls-Royce Cullinan/2023 Rolls-Royce Cullinan19.jpg" 
+            ],
+            "shortDesc": "Thương hiệu: Rolls Royce<br/>Mau xe : Rolls Royce Cullinan<br/>Biến thể: 2023 Rolls Royce Cullinan<br/>Loại năng lượng: Xăng<br/>Năm sản xuất: 2023 <br/>Công suất(PS):563<br/>Mô-men xoắn cực đại (Nm):850<br/>Công suất động cơ đốt trong (PS):563<br/>Kích thước tổng thể DxRxC: 5.341 x 2.164 x 1.835<br/>Mức tiêu thụ nhiên liệu: 12.65 L/100km<br/>Hộp số: AT"
+          },
+          {
+            "id": 46,
+            "name": "Vios G sx 2018",
+            "price": 150000000,
+            "imageLink": "images/itemImg/Vios G sx 2018/Vios G sx 20181.jpg",
+            "imagePath": [
+                "images/itemImg/Vios G sx 2018/Vios G sx 20181.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20182.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20183.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20184.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20185.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20186.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20187.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20188.jpg",
+                "images/itemImg/Vios G sx 2018/Vios G sx 20189.jpg" 
+            ],
+            "shortDesc": "động cơ xăng 4 xylanh<br/>dung tích 1.5L<br/>dẫn động cầu trước (FWD),<br/>số sàn 5 cấp E MT<br/>hộp số tự động CVT<br/>Công suất tối đa 107 mã lực 6,000 vòng/phút,<br/>mô-men xoắn cực đại đạt 140 Nm tại 4,200 vòng/phút."
+          },
+          {
+            "id": 47,
+            "name": "RAP TOR 2023",
+            "price": 433000000,
+            "imageLink": "images/itemImg/RAP TOR 2023/RAP TOR 20231.jpg",
+            "imagePath": [
+                "images/itemImg/RAP TOR 2023/RAP TOR 20231.jpg",
+                "images/itemImg/RAP TOR 2023/RAP TOR 20232.jpg",
+                "images/itemImg/RAP TOR 2023/RAP TOR 20233.jpg",
+                "images/itemImg/RAP TOR 2023/RAP TOR 20234.jpg",
+                "images/itemImg/RAP TOR 2023/RAP TOR 20235.jpg",
+                "images/itemImg/RAP TOR 2023/RAP TOR 20236.jpg",
+                "images/itemImg/RAP TOR 2023/RAP TOR 20237.jpg",
+                "images/itemImg/RAP TOR 2023/RAP TOR 20238.jpg" 
+            ],
+            "shortDesc": "Loại động cơ: Bi Turbo Diesel 2.0 14 TDCI<br/>Dung tích xi lanh: 1.996<br/>Hộp số: 10 AT<br/>Công suất cực đại (Ps/rpm): 210/3.750<br/>Mô-men xoắn cực đại (Nm/rpm: 500/1.750-2.000<br/>Hệ dẫn động: 4WD<br/>Trợ lực lái:Trợ lực điện<br/>Gài cầu điện: Có<br/>Khóa vi sai: Cầu sau<br/>Hệ thống kiểm soát đường địa hình:Có<br/>Đa chế độ lái: Thông thường/ Thể thao Trơn trượt/ Leo đả/ Cát Bùn lầy/ Baja<br/>Lẫy chuyển số thể thao: có <br/>Dung tích thùng nhiên liệu (L): 80<br/>Treo trước/sau: Hệ thống treo độc lập, tay đòn kép, giảm xóc thể thao và thanh cân bằng/ Ông giảm xóc thể thao và thanh ổn định liên kết kiểu Watts Linkage<br/>Phanh trước/ sau: Đĩa/ Đĩa<br/>Cỡ lốp: 285/70R17<br/>La-zăng: Vành hợp kim nhôm đúc 17 inch"
+          },
+          {
+            "id": 48,
+            "name": "Porsche Panamera",
+            "price": 1950000000,
+            "imageLink": "images/itemImg/Porsche Panamera/Porsche Panamera01.jpg",
+            "imagePath": [
+                "images/itemImg/Porsche Panamera/Porsche Panamera01.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera02.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera03.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera04.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera05.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera06.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera07.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera08.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera09.jpg",
+                "images/itemImg/Porsche Panamera/Porsche Panamera10.jpg" 
+            ],
+            "shortDesc": "Kiểu động cơ: V6, twin-turbo<br/>Dung tích (cc): 2.894<br/>Công suất (mã lực)/vòng tua (vòng/phút): 330/5400 - 6400<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 450/1800 - 5000<br/>Hộp số: PDK 8 cấp<br/>Hệ dẫn động: Bánh sau<br/>Loại nhiên liệu: Xăng<br/>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 8,6<br/>Số chỗ: 4<br/>Kích thước dài x rộng x cao (mm): 5049 x 1937 x 1423<br/>Chiều dài cơ sở (mm): 2.950<br/>Thể tích khoang hành lý (lít): 495<br/>Dung tích bình nhiên liệu (lít): 75<br/>Trọng lượng bản thân (kg): 1.860<br/>Trọng lượng toàn tải (kg): 2.515<br/>Lốp, la-zăng: Lốp trước: 265/45 ZR 19 / Lốp sau: 295/40 ZR 19"
+          },
+          {
+            "id": 49,
+            "name": "Mercedes-AMG G 63",
+            "price": 3650000000,
+            "imageLink": "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6301.jpg",
+            "imagePath": [
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6301.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6302.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6303.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6304.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6305.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6306.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6307.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6308.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6309.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6310.jpg",
+                "images/itemImg/Mercedes-AMG G 63/Mercedes-AMG G 6311.jpg" 
+            ],
+            "shortDesc": "DxRxC: 4763 x 1855 x 1938 (mm)<br/>Chiều dài cơ sở: 2.850 (mm)<br/>Động cơ: V8<br/>Dung tích công tác: 4.0 lít<br/>Công suất cực đại: 430 kW [577 hp] tại 6000 vòng/phút<br/>Mô-men xoắn cực đại: 850 Nm tại 2500 – 3500 vòng/phút<br/>Hộp số: AMG SPEEDSHIFT TCT 9G<br/>Dẫn động: 4 bánh toàn thời gian 4MATIC<br/>Tăng tốc: 4,5s (0 – 100 km/h)<br/>Vận tốc tối đa: 220 (km/h)<br/>Loại nhiên liệu: Xăng không chì có trị số octane 95 hoặc cao hơn<br/>Mức tiêu thụ nhiên liệu, kết hợp: 13,1 (l/100km)<br/>Mức tiêu thụ nhiên liệu, trong đô thị: 16.5 (l/100km)<br/>Mức tiêu thụ nhiên liệu, ngoài đô thị: 11.1 (l/100km)"
+          },
+          {
+            "id": 50,
+            "name": "Vario 125",
+            "price": 23700000,
+            "imageLink": "images/itemImg/vario 125/vario 1251.jpg",
+            "imagePath": [
+                "images/itemImg/vario 125/vario 1251.jpg",
+                "images/itemImg/vario 125/vario 1252.jpg",
+                "images/itemImg/vario 125/vario 1253.jpg",
+                "images/itemImg/vario 125/vario 1254.jpg",
+                "images/itemImg/vario 125/vario 1255.jpg" 
+            ],
+            "shortDesc": "=>  Thông số kỹ thuật Honda Vario 125:<br/>Kích thước (dài x rộng x cao ): 1.918 x 679 x 1.066 mm<br/>Chiều dài trục cơ sở: 1.280 mm<br/>Chiều cao yên: 769 mm<br/>Khoảng sáng gầm: 131 mm<br/>Trọng lượng: 112 kg<br/>Động cơ: eSP SOHC, làm mát bằng dung dịch, PGM - Fi<br/>Dung tích: 124.8 cc<br/>Đường kính x hành trình piston: 52.4 x 57.9 mm<br/>Tỉ số nén: 11:1<br/>Công suất: 8.2 kW tại 8.500 vòng/phút<br/>Mô – men xoắn cực đại; 10.8 Nm tại 5.000 vòng/phút<br/>Tính năng Idling Stop (dừng xe tắt máy)<br/>Tiêu hao nhiên liệu: 1.89L/100km<br/>Phanh trước đĩa: kẹp phanh thủy lực<br/>Phanh sau: tang trống<br/>Phuộc trước; ống lồng, giảm chấn thủy lực<br/>Phuộc sau: lò xo đơn, giảm chấn thủy lực"
+          },
+          {
+            "id": 51,
+            "name": "Porsche Cayenne S",
+            "price": 863000000,
+            "imageLink": "images/itemImg/Porsche Cayenne S/Porsche Cayenne S01.jpg",
+            "imagePath": [
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S01.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S02.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S03.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S04.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S05.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S06.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S07.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S08.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S09.jpg",
+                "images/itemImg/Porsche Cayenne S/Porsche Cayenne S10.jpg" 
+            ],
+            "shortDesc": "Kiểu động cơ : V6 <br/>Dung tích động cơ : 3.604<br/>Công suất tối đa : 420 mã lực <br/>Momen xoắn cực đại : 550 Nm / 4.500 vòng / phút <br/>Hộp số : Tự động 8 cấp <br/>Kiểu dẫn động : Dẫn động 4 bánh <br/>Lựa chịn chế độ xe : Chế độ lái xe thể thao <br/>Thời gian tăng tốc : 5.5 giây <br/>Tốc độ tối đa : 259 Km/H<br/>Mức tiêu hao nhiên liệu : 9.5 - 9.8 ( Kết hợp ) <br/>Kích thước tổng thể :  4.855 x 1.939 x 1.705 <br/>Chiều dài cơ sở : 2.895 <br/>Trọng lượng không tải : 2.085/2.860 <br/>Dung tích bình nhiên liệu : 85 <br/>Dung tích khoang hành lý : 670/1.780 ( Gập hàng ghế sau ) "
+          },
+          {
+            "id": 52,
+            "name": "Kia Carnival 2022",
+            "price": 399666000,
+            "imageLink": "images/itemImg/Kia Carnival 2022/Kia Carnival 20221.jpg",
+            "imagePath": [
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20221.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20222.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20223.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20224.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20225.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20226.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20227.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20228.jpg",
+                "images/itemImg/Kia Carnival 2022/Kia Carnival 20229.jpg" 
+            ],
+            "shortDesc": "Xuất xứ  Hàn Quốc<br/>Kiểu động cơ : 2.2 Smartstream<br/>Dung tích (cc) : 2.151<br/>Công suất (mã lực)/vòng tua (vòng/phút) : 199/3.800<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút) : 440/1.750-2.750<br/>Hộp số : 8 AT<br/>Hệ dẫn động : Cầu trước<br/>Loại nhiên liệu : Diesel<br/>Số chỗ : 7<br/>Kích thước dài x rộng x cao (mm) : 5.155 x 1.995 x 1.775<br/>Chiều dài cơ sở (mm) : 3,090<br/>Khoảng sáng gầm (mm) : 172<br/>Bán kính vòng quay (mm) : 5,800<br/>Dung tích khoang hành lý (lít) : 1.139-2.460<br/>Dung tích bình nhiên liệu (lít) : 72<br/>Trọng lượng bản thân (kg) : 2,150<br/>Trọng lượng toàn tải (kg) : 2,780<br/>Lốp, la-zăng : 235/55 R19"
+          },
+          {
+            "id": 53,
+            "name": "AUDI Q8 S-line - 2020",
+            "price": 1550000000,
+            "imageLink": "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202001.jpg",
+            "imagePath": [
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202001.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202002.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202003.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202004.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202005.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202006.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202007.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202008.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202009.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202010.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202011.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202012.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202013.jpg",
+                "images/itemImg/AUDI Q8 S-line - 2020/AUDI Q8 S-line - 202014.jpg" 
+            ],
+            "shortDesc": "Mẫu xe : Audi Q8<br/>Biến thể : 2020 Audi Q8    <br/>Loại xe : SUV      <br/>Phân khúc : Executive<br/>Loại năng lượng : Xăng    <br/>Năm sản xuất : 2020     <br/>Công suất(PS) : 340                            <br/>Công suất động cơ đốt trong(PS) : 340           <br/>Kích thước tổng thể DxRxC : 4,986 x 2,190* x 1,705  <br/>Mức tiêu thụ nhiên liệu : 9.1 - 8.9 L/100KM<br/>Hộp số : DCT <br/>Động cơ : Xăng V6 3.0L + Mild hybrid MHEV 48V    <br/>Dung tích xy lanh (L) : 3.0 <br/>Dung tích xy lanh (cc) : 2995          <br/>Mô-men xoắn từ động cơ đốt trong : 500                                                <br/>Dài : 4986 mm                                               <br/>Cao : 1705mm    <br/>Rộng : 2190 mm                                                   <br/>Lốp trước : 285/45R21                                       <br/>Lốp sau : 285/45R21        <br/>Kích thước La zăng : 21 inch <br/>Trọng lượng (kg) : 2269.8                                   <br/>Hệ thống treo trước : Multi-Link , Độc Lập                              <br/>Hệ thống theo sau : Multi-Link , Độc Lập <br/>Bán kính vòng quay tối thiểu ( m ) : 13<br/>Ghế ngồi : 5 "
+          },
+          {
+            "id": 54,
+            "name": "Wave RSX FI 110",
+            "price": 21000000,
+            "imageLink": "images/itemImg/Wave RSX FI 110/Wave RSX FI 1101.jpg",
+            "imagePath": [
+                "images/itemImg/Wave RSX FI 110/Wave RSX FI 1101.jpg",
+                "images/itemImg/Wave RSX FI 110/Wave RSX FI 1102.jpg",
+                "images/itemImg/Wave RSX FI 110/Wave RSX FI 1103.jpg",
+                "images/itemImg/Wave RSX FI 110/Wave RSX FI 1104.jpg" 
+            ],
+            "shortDesc": "Khối lượng bản thân: 99kg (vành đúc và vành nan hoa phanh đĩa) <br/>Dài x Rộng x Cao: 1.921 mm x 709 mm x 1.081 mm<br/>Khoảng cách trục bánh xe: 1.227mm<br/>Độ cao yên: 760mm<br/>Khoảng sáng gầm xe:135mm<br/>Dung tích bình xăng: 4 lít<br/>Kích cỡ lốp trước/ sau:  Trước: 70/90 - 17 M/C 38P  Sau: 80/90 - 17 M/C 50P<br/>Phuộc trước:Ống lồng, giảm chấn thủy lực<br/>Phuộc sau:Lò xo trụ, giảm chấn thủy lực<br/>Loại động cơ:  Xăng, 4 kỳ, 1 xy-lanh, làm mát bằng không khí<br/>Công suất tối đa:  6,46 kW / 7.500 vòng/phút<br/>Dung tích nhớt máy: 0.8 lít khi thay nhớt 1.0 lít khi rã máy<br/>Mức tiêu thụ nhiên liệu:1,7l/100 km<br/>Hộp số:Cơ khí, 4 số tròn<br/>Hệ thống khởi động:Đạp chân/Điện<br/>Moment cực đại:8,70 Nm/6.000 vòng/phút<br/>Dung tích xy-lanh:109,2 cm3<br/>Đường kính x Hành trình pít tông:50,0 x 55,6 mm<br/>Tỷ số nén:9,3 : 1"
+          },
+          {
+            "id": 55,
+            "name": "Mitsubishi Outlander 2019",
+            "price": 337000000,
+            "imageLink": "images/itemImg/Mitsubishi Outlander 2019/Mitsubishi Outlander 20191.jpg",
+            "imagePath": [
+                "images/itemImg/Mitsubishi Outlander 2019/Mitsubishi Outlander 20191.jpg",
+                "images/itemImg/Mitsubishi Outlander 2019/Mitsubishi Outlander 20192.jpg",
+                "images/itemImg/Mitsubishi Outlander 2019/Mitsubishi Outlander 20193.jpg",
+                "images/itemImg/Mitsubishi Outlander 2019/Mitsubishi Outlander 20194.jpg",
+                "images/itemImg/Mitsubishi Outlander 2019/Mitsubishi Outlander 20195.jpg",
+                "images/itemImg/Mitsubishi Outlander 2019/Mitsubishi Outlander 20196.jpg" 
+            ],
+            "shortDesc": "Số chỗ ngồi: 07 Kiểu xe: SUV<br/>Kích thước DxRxC (mm): 4.695 x 1.810 x 1.710 <br/>Chiều dài cơ sở (mm): 2670<br/>Động cơ: Mivec, <br/>Hút khí tự nhiên Dung tích công tác: 2.0 L và 2.4 L <br/>Dung tích bình nhiên liệu: 60 Lít <br/>Loại nhiên liệu:  Xăng <br/>Công suất cực đại (hp): 145 và 167 <br/>Mô-men xoắn cực đại (Nm): 196 và 222 <br/>Hộp số: Tự động CVT <br/>Hệ dẫn động: Cầu trước và dẫn động 2 cầu <br/>Hệ thống treo trước : Kiểu MacPherson với thanh cân bằng Hệ thống treo sau: Đa liên kết với thanh cân bằng Tay lái trợ lực: Điện Cỡ mâm: 18"
+          },
+          {
+            "id": 56,
+            "name": "Air Blade",
+            "price": 25000000,
+            "imageLink": "images/itemImg/Air Blade/Air Blade1.jpg",
+            "imagePath": [
+                "images/itemImg/Air Blade/Air Blade1.jpg",
+                "images/itemImg/Air Blade/Air Blade2.jpg",
+                "images/itemImg/Air Blade/Air Blade3.jpg",
+                "images/itemImg/Air Blade/Air Blade4.jpg",
+                "images/itemImg/Air Blade/Air Blade5.jpg",
+                "images/itemImg/Air Blade/Air Blade6.jpg",
+                "images/itemImg/Air Blade/Air Blade7.jpg",
+                "images/itemImg/Air Blade/Air Blade8.jpg" 
+            ],
+            "shortDesc": "Dung tích bình xăng:4,4 lít<br/>Cỡ lốp trước/sau:Trước: 90/80 - 14 M/C 43P / Sau: 100/80 - 14 M/C 48P<br/>Phuộc trước: Ống lồng, giảm chấn thủy lực<br/>Phuộc sau: Lò xo trụ, giảm chấn thủy lực<br/>Loại động cơ: PGM-FI, xăng, 4 kỳ, 1 xy-lanh, làm mát bằng dung dịch<br/>Dung tích xy-lanh:156,9cm3<br/>Đường kính x hành trình pít tông:60mm x 55,5mm<br/>Tỷ số nén:12 : 1<br/>Công suất tối đa:15 HP/8.000 vòng/phút<br/>Mô men cực đạ:14,6N.m/6.500 vòng/phút<br/>Dung tích nhớt máy:0,9 lít khi rã máy/0,8 lít khi thay nhớt<br/>Hệ thống khởi động:Điện<br/>Loại truyền động: Dây đai, biến thiên vô cấp<br/>Hệ thống đèn Full LED<br/>Cổng sạc USB 12v và hệ thống phanh ABS trên bản mới Air Blade 160<br/>Xe còn được trang bị đồng hồ Full LCD mới<br/>Hệ thống khóa thông minh Honda SMART Key, hộc đồ cỡ lớn"
+          },
+          {
+            "id": 57,
+            "name": "Honda Scoopy",
+            "price": 32000000,
+            "imageLink": "images/itemImg/Honda Scoopy/Honda Scoopy01.jpg",
+            "imagePath": [
+                "images/itemImg/Honda Scoopy/Honda Scoopy01.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy02.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy03.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy04.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy05.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy06.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy07.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy08.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy09.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy10.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy11.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy12.jpg",
+                "images/itemImg/Honda Scoopy/Honda Scoopy13.jpg" 
+            ],
+            "shortDesc": "Dài x Rộng x Cao: 1.864 x 683 x 1.075 mm<br/>Công suất tối đa: 6,6 kW (9 PS) tại 7.500 vòng/phút<br/>Độ cao yên: 746 mm<br/>Hệ thống cung cấp nhiên liệu: Phun xăng điện tử FI<br/>Dung tích nhớt máy: 0,65 khi thay nhớt định kỳ<br/>Dung tích xy-lanh: 110 cc<br/>Loại động cơ: eSP, xi-lanh đơn, 4 kỳ, SOHC, làm mát bằng không khí<br/>Hộp số: Vô Cấp<br/>Cỡ lốp trước/sau: Trước 100/90-12 59J; Sau 110/90-12 64J<br/>Phanh trước/sau: Đĩa đơn; Tang trống"
+          },          
+          {
+            "id": 58,
+            "name": "MITSUBISHI XPANDER",
+            "price": 186000000,
+            "imageLink": "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER01.jpg",
+            "imagePath": [
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER01.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER02.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER03.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER04.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER05.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER06.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER07.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER08.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER09.jpg",
+                "images/itemImg/MITSUBISHI XPANDER/MITSUBISHI XPANDER10.jpg" 
+            ],
+            "shortDesc": "Phiên bản  1.5 MT  <br/>Giá xe  560.000.000 VND<br/>Giá bán : 186.000.00 <br/>Kiểu dáng xe  MPV<br/>Số chỗ ngồi  7<br/>Chiều dài cơ sở  2.775 (mm)<br/>Kích thước dài x rộng x cao  4475 x 1750 x 1730 (mm)  4.595 x 1.750 x 1.730 (mm)  4500 x 1800 x 1750 (mm)<br/>Khoảng sáng gầm xe  205 (mm)  225 (mm)<br/>Khối lượng bản thân (kg)  1.235 (kg)  1.250 (kg)<br/>Động cơ vận hành  MIVEC 1.5 i4<br/>Công suất tối đa  104/6000 (hp/vòng)<br/>Momen xoắn cực đại  141/4000 (hp/vòng)<br/>Hộp số  5-MT  4-AT<br/>Hệ dẫn động  FWD<br/>Loại nhiên liệu  Xăng<br/>Dung tích bình nhiên liệu  45 (lít)<br/>Nguồn gốc xuất xứ  Mitsubishi Motor - Nhật Bản"
+          },
+          {
+            "id": 59,
+            "name": "Seltos Turbo premium 2022",
+            "price": 199000000,
+            "imageLink": "images/itemImg/Seltos Turbo premium 2022/Seltos Turbo premium 20221.jpg",
+            "imagePath": [
+                "images/itemImg/Seltos Turbo premium 2022/Seltos Turbo premium 20221.jpg",
+                "images/itemImg/Seltos Turbo premium 2022/Seltos Turbo premium 20222.jpg",
+                "images/itemImg/Seltos Turbo premium 2022/Seltos Turbo premium 20223.jpg",
+                "images/itemImg/Seltos Turbo premium 2022/Seltos Turbo premium 20224.jpg",
+                "images/itemImg/Seltos Turbo premium 2022/Seltos Turbo premium 20225.jpg" 
+            ],
+            "shortDesc": "Động cơ/hộp số Kiểu động cơ: Kappa 1.4 T-GDi (turbo) Công suất (mã lực)/vòng tua (vòng/phút): 138 Mô-men xoắn (Nm)/vòng tua (vòng/phút): 242 Hộp số: Ly hợp kép 7 cấp Hệ dẫn động: Cầu trước Loại nhiên liệu: Xăng Kích thước/trọng lượng: Số chỗ: 5 Kích thước dài x rộng x cao (mm): 4315x1800x1645 Chiều dài cơ sở (mm): 2.610 Khoảng sáng gầm (mm): 190 Bán kính vòng quay (mm): 5.300 Dung tích khoang hành lý (lít): 433 Dung tích bình nhiên liệu (lít): 50 Trọng lượng bản thân (kg): 1.290 Trọng lượng toàn tải (kg): 1.740 Lốp, la-zăng: 215/60R17"
+          },
+          {
+            "id": 60,
+            "name": "Kia K3 Luxury 2022",
+            "price": 213000000,
+            "imageLink": "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202201.jpg",
+            "imagePath": [
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202201.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202202.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202203.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202204.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202205.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202206.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202207.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202208.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202209.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202210.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202211.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202212.jpg",
+                "images/itemImg/Kia K3 Luxury 2022/Kia K3 Luxury 202213.jpg"
+            ],
+            "shortDesc": "Kiểu động cơ: Gamma 1.6 MPI<br/>Dung tích (cc): 1,599<br/>Công suất (mã lực)/vòng tua (vòng/phút): 126/6.300<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 155/4.850<br/>Hộp số: 6 MT<br/>Hệ dẫn động: Cầu trước<br/>Loại nhiên liệu: Xăng<br/>Số chỗ: 5<br/>Kích thước dài x rộng x cao (mm): 4.640 x 1.800 x 1.450<br/>Chiều dài cơ sở (mm): 2,700<br/>Khoảng sáng gầm (mm): 150<br/>Bán kính vòng quay (mm): 5,300<br/>Dung tích khoang hành lý (lít): 502<br/>Dung tích bình nhiên liệu (lít): 50<br/>Lốp, la-zăng: 225/45R17, vành đúc"
+          },
+          {
+            "id": 61,
+            "name": "Isuzu Mux 2021",
+            "price": 305000000,
+            "imageLink": "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20211.jpg",
+            "imagePath": [
+                "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20211.jpg",
+                "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20212.jpg",
+                "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20213.jpg",
+                "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20214.jpg",
+                "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20215.jpg",
+                "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20216.jpg",
+                "images/itemImg/Isuzu Mux 2021/Isuzu Mux 20217.jpg" 
+            ],
+            "shortDesc": "Dáng xe: SUV<br/>Động cơ: Turbo Diesel 1.9L/ Turbo Diesel 3.0L<br/>Công suất: 148 mã lực / 187 mã lực<br/>Mô-men xoắn: 350 Nm / 450 Nm<br/>Hộp số: 6MT / 6AT<br/>Hệ dẫn động: 2WD / 4WD<br/>Chiều dài: 4.850 (mm)<br/>Chiều rộng: 1.870 (mm)<br/>Chiều cao: 1.875 (mm)<br/>Chiều dài cơ sở: 2.855 (mm)"
+          },
+          {
+            "id": 62,
+            "name": "Mazda BT50 2.2L",
+            "price": 140000000,
+            "imageLink": "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L1.jpg",
+            "imagePath": [
+                "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L1.jpg",
+                "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L2.jpg",
+                "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L3.jpg",
+                "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L4.jpg",
+                "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L5.jpg",
+                "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L6.jpg",
+                "images/itemImg/Mazda BT50 2.2L/Mazda BT50 2.2L7.jpg" 
+            ],
+            "shortDesc": "Mazda BT50 2.2L MT 4WD<br/>Kích thước tổng thể (DxRxC)5365 x 1850 x 1815 mm<br/>Chiều dài cơ sở3220 mm<br/>Khoảng sáng gầm xe237 mm<br/>Bán kính quay vòng6200 mm<br/>Khả năng lội nước800 mm<br/>Trọng lượng không tải 2076 kg<br/>Trọng lượng toàn tải3200 kg<br/>Dung tích thùng nhiên liệu80 |<br/>Kích thước thùng xe1549 x 1560 x 513 mm<br/>Số chỗ ngồi 5<br/>Loại: Diesel tăng áp, bộ làm mát khí nạp<br/>Dung tích: 2198 cc<br/>Bố trí xi lanh:4 xi lanh thẳng hàng<br/>Số Xupap:16<br/>Cơ chế trục cam Trục cam kép<br/>Công suất tối đa148Hp/3700rpm<br/>Mô men xoắn tối đa375Nm/1500-2500rpm<br/>Hộp số Số sàn 6 cấp<br/>Dẫn động 2 cầu<br/>Gài cầu điện tử Có<br/>Hệ thống treo trước Độc lập, thanh giằng đôi với lò xo xoắn<br/>Hệ thống treo sauNhíp lá<br/>Hệ thống phanh trước Đĩa<br/>Hệ thống phanh sau Tang trống<br/>Trợ lực tay lái Trợ lực thủy lực<br/>Mâm xeMâm đúc hợp kim nhôm<br/>Kích thước lốp xe255/70R16"
+          },
+          {
+            "id": 63,
+            "name": "HYUNDAI SANTAFE",
+            "price": 458333333,
+            "imageLink": "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE01.jpg",
+            "imagePath": [
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE01.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE02.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE03.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE04.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE05.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE06.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE07.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE08.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE09.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE10.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE11.jpg",
+                "images/itemImg/HYUNDAI SANTAFE/HYUNDAI SANTAFE12.jpg" 
+            ],
+            "shortDesc": "HYUNDAI SANTAFE<br/>Giá xe: Từ 1.375.000.000 VND | Giá bán: 458.333.333 VND<br/>Kiểu dáng xe: SUV-D<br/>Số chỗ ngồi: 7<br/>Chiều dài cơ sở: 2.765 (mm)<br/>Kích thước dài x rộng x cao: 4785 x 1900 x 1720 (mm)<br/>Khoảng sáng gầm xe: 185 (mm)<br/>Khối lượng toàn tải: 2.510 (kg)<br/>Khối lượng không tải: 1.710 (kg)<br/>Động cơ vận hành: Xăng 2.5L | Dầu 2.2L<br/>Công suất tối đa: 180/6000 (hp/vòng) | 202/3800 (hp/vòng)<br/>Momen xoắn cực đại: 232/4000 (Nm/vòng) | 440/1750 - 2750 (Nm/vòng)<br/>Hộp số: 6AT | 8 DCT<br/>Hệ dẫn động: FWD | AWD<br/>Dung tích bình nhiên liệu: 71 (lít)<br/>Nguồn gốc xuất xứ: Hyundai Motor - Hàn Quốc"
+          },          
+          {
+            "id": 64,
+            "name": "BMW 730LI",
+            "price": 1427000000,
+            "imageLink": "images/itemImg/BMW 730LI/BMW 730LI01.jpg",
+            "imagePath": [
+                "images/itemImg/BMW 730LI/BMW 730LI01.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI02.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI03.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI04.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI05.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI06.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI08.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI09.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI10.jpg",
+                "images/itemImg/BMW 730LI/BMW 730LI11.jpg" 
+            ],
+            "shortDesc": "Tên  : BMW 730LI <br/>Kiểu động cơ: B48, 2.0 I4-TwinPower Turbo<br/>Dung tích (cc): 1.998<br/>Công suất (mã lực)/vòng tua (vòng/phút): 265/5000 – 6500<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 400/1550 – 4500<br/>Hộp số: Tự động 8 cấp Steptronic<br/>Hệ dẫn động: Cầu sau<br/>Loại nhiên liệu: Xăng<br/>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 6,6<br/>Số chỗ: 4<br/>Kích thước dài x rộng x cao (mm):5260 x1902 x1479<br/>Chiều dài cơ sở (mm): 3.210<br/>Thể tích khoang hành lý (lít): 515<br/>Dung tích bình nhiên liệu (lít): 78<br/>Trọng lượng bản thân (kg): 1.840<br/>Lốp, la-zăng: 19 inch 5 chấu kép thể thao M Sport"
+          },
+          {
+            "id": 65,
+            "name": "Kawasaki W175 SE",
+            "price": 30000000,
+            "imageLink": "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE1.jpg",
+            "imagePath": [
+                "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE1.jpg",
+                "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE2.jpg",
+                "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE3.jpg",
+                "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE4.jpg",
+                "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE5.jpg",
+                "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE6.jpg",
+                "images/itemImg/Kawasaki W175 SE/Kawasaki W175 SE7.jpg" 
+            ],
+            "shortDesc": "Thương hiệu : Kawasaki <br/>Dòng xe : Kawasaki W175<br/>Công suất tối đa ( PS ) : 12.82 hp <br/>Năm sản suất : 2020 <br/>Loại động cơ : Inline 2 Cylinder, 4-Stroke, Liquid Cooled Engine<br/>Bắt đầu các tùy chọn : Electric<br/>Loại : Street <br/>Kiểu truyền tải : Manual<br/>Loại nhiên liệu : Xăng <br/>ĐỘNG CƠ VÀ HIỆU SUẤT <br/>Tốc độ tối đa : 120 kmph<br/>Mô-men xoắn cực đại RPM ( RPM ) : 6000 rpm <br/>Số xi lanh : 1 <br/>Công suất tối đa RPM ( RPM ) : 7500 rpm <br/>Mô-men xoắn cực đại ( Nm ) : 13.2 Nm <br/>Số kì : 4-Stroke <br/>Dung tích ( cc ) : 177 <br/>Dung tích bình xăng : 13.5L<br/>BÁNH RĂNG VÀ HỘP SỐ : 5-percepatan<br/>Kiểu truyền tải : Manual<br/>LOẠI KHUNG VÀ HỆ THỐNG TREO <br/>Khoáng sáng gầm xe : 165 mm <br/>Chiều cao yên : 765 mm <br/>Hệ thống treo sau : Dual Shock<br/>Hệ thống treo trước : Telescopic Fork"
+          },
+          {
+            "id": 66,
+            "name": "MT-07",
+            "price": 43000000,
+            "imageLink": "images/itemImg/MT-07/MT-071.jpg",
+            "imagePath": [
+                "images/itemImg/MT-07/MT-071.jpg",
+                "images/itemImg/MT-07/MT-072.jpg",
+                "images/itemImg/MT-07/MT-073.jpg",
+                "images/itemImg/MT-07/MT-074.jpg" 
+            ],
+            "shortDesc": "Loại động cơ: Crossplane 2 xi lanh, DOHC, 4 thì, làm mát bằng dung dịch<br/>Dịch chuyển: 689 cc<br/>Đường kính x hành trình piston: 80,0 x 68,6 mm<br/>Tỷ lệ nén: 11,5:1<br/>Công suất cực đại: 54,0 kW (73 mã lực) @ 8750 vòng/phút<br/>Mô-men xoắn cực đại: 67,0Nm (6,8kg-m) tại 6500 vòng/phút<br/>Hệ thống bôi trơn: Bể phốt ướt<br/>Loại ly hợp: Ướt, nhiều đĩa<br/>Hệ thống đánh lửa: TCI<br/>Hệ thống khởi động: Điện<br/>Hộp số: Tay côn, 6 tốc độ<br/>Dạng truyền: Dây xích<br/>Sự tiêu thụ xăng dầu: 4,2 l/100km<br/>Phát thải CO2: 98 g/km, Euro 5<br/>Hệ thống nhiên liệu: Phun nhiên liệu<br/>Góc bánh xe: 24º50<br/>Đường kính Radial: 90mm<br/>Hệ thống treo trước: KYB ống lồng<br/>Hệ thống treo sau: KYB monoshock có thể tùy chỉnh<br/>Hành trình trước: 130 mm<br/>Hành trình sau: 130 mm<br/>Thắng trước: Đĩa kép thủy lực, Ø 298mm, ABS<br/>Phanh sau: Đĩa đơn thủy lực, Ø 245 mm, ABS<br/>Lốp trước: 120/70 ZR 17M/C (58W) (Không săm)<br/>Lốp sau: 180/55 ZR 17M/C (73W) (Không săm)"
+          },
+          {
+            "id": 67,
+            "name": "REBEL 500 FULL OPTION",
+            "price": 60000000,
+            "imageLink": "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION01.jpg",
+            "imagePath": [
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION01.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION02.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION03.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION04.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION05.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION06.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION07.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION08.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION09.jpg",
+                "images/itemImg/REBEL 500 FULL OPTION/REBEL 500 FULL OPTION10.jpg" 
+            ],
+            "shortDesc": "THÔNG SỐ KỸ THUẬT<br/>HONDA REBEL 500 2023<br/>Khối lượng (kg) 190<br/>Dài x Rộng x Cao (mm) 2.206 x 822 x 1.093<br/>Khoảng cách trục bánh xe (mm) 1.490<br/>Độ cao yên (mm) 690 <br/>Khoảng sáng gầm xe (mm) 136<br/>Lốp trước: 130/90-16M/C 67H<br/>Lốp sau: 150/80-16M/C 71H<br/>Dung tích bình xăng (L) 11,2<br/>Phuộc trước Ống lồng, giảm chấn thủy lực đường kính 41mm<br/>Phuộc sau Lò xo trụ đôi, giảm chấn thủy lực, nén khí ni-tơ<br/>Loại động cơ DOHC, 4 kỳ, 2 xi-lanh, PGM-FI, làm mát bằng chất lỏng<br/>Công suất (hp @ rpm) 44,9hp @ 8.500rpm <br/>Mô-men xoắn (Nm @ rpm) 43,3Nm @ 6.000rpm<br/>Mức tiêu thụ nhiên liệu 3,42L/100km<br/>Hộp số 6 cấp<br/>Loại truyền động Côn tay 6 số<br/>Hệ thống khởi động Điện<br/>Dung tích xi-lanh 471cc<br/>Sau khi xả:  2,5L<br/>Sau khi xả và thay lọc dầu động cơ: 2,7L<br/>Sau khi rã máy: 3,2L<br/>Đường kính x Hành trình piston (mm) 67 x 66,8<br/>Tỷ số nén 10,7:1"
+          },
+          {
+            "id": 68,
+            "name": "CBR500R",
+            "price": 65000000,
+            "imageLink": "images/itemImg/CBR500R/CBR500R1.jpg",
+            "imagePath": [
+                "images/itemImg/CBR500R/CBR500R1.jpg",
+                "images/itemImg/CBR500R/CBR500R2.jpg",
+                "images/itemImg/CBR500R/CBR500R3.jpg",
+                "images/itemImg/CBR500R/CBR500R4.jpg",
+                "images/itemImg/CBR500R/CBR500R5.jpg",
+                "images/itemImg/CBR500R/CBR500R6.jpg",
+                "images/itemImg/CBR500R/CBR500R7.jpg" 
+            ],
+            "shortDesc": "Loại truyền động: Cơ khí<br/>Động cơ: Máy xăng DOHC 2 xy-lanh 4 kỳ<br/>Hệ thống làm mát: Dung dịch làm mát<br/>Hộp số: 6 cấp<br/>Dung tích xy-lanh: 500cc<br/>Đường kính pít tông: 67mm<br/>Hành trình pít tông: 66,8mm<br/>Tỷ số nén: 10,7:1<br/>Công suất tối đa: 35kW tại 8600rpm<br/>Mô men xoắn cực đại: 43Nm tại 6500rpm<br/>Hệ thống khởi động: Điện<br/>Dung tích nhớt máy: 3,2L<br/>Dung tích bình xăng: 17,1L<br/>Mức tiêu thụ nhiên liệu: 3,59L/100km<br/>Lốp trước: 120/70-ZR17<br/>Lốp sau: 160/60-17<br/>Phuộc trước: Ống lồng, Giảm chấn thủy lực, Tải trước có thể điều chỉnh, 41mm<br/>Phuộc sau: 1 lò xo trụ, 5 cấp điều chỉnh<br/>Phanh trước: Phanh đĩa<br/>Phanh sau: Phanh đĩa"
+          }, 
+          {
+            "id": 69,
+            "name": "CBR650R",
+            "price": 90000000,
+            "imageLink": "images/itemImg/CBR650R/CBR650R1.jpg",
+            "imagePath": [
+                "images/itemImg/CBR650R/CBR650R1.jpg",
+                "images/itemImg/CBR650R/CBR650R2.jpg",
+                "images/itemImg/CBR650R/CBR650R3.jpg",
+                "images/itemImg/CBR650R/CBR650R4.jpg",
+                "images/itemImg/CBR650R/CBR650R5.jpg"  
+            ],
+            "shortDesc": "Động cơ: Máy xăng 16 van 4 xy-lanh DOHC 4 kỳ<br/>Tiêu chuẩn khí thải: EURO5<br/>Hệ thống làm mát: Dung dịch làm mát<br/>Hộp số: 6 cấp<br/>Dung tích xy-lanh: 650cc<br/>Đường kính pít tông: 67mm<br/>Hành trình pít tông: 46mm<br/>Tỷ số nén: 11,6:1<br/>Công suất tối đa: 70kW tại 12000rpm<br/>Mô men xoắn cực đại: 63Nm tại 9500rpm<br/>Hệ thống khởi động: Điện<br/>Dung tích nhớt máy: 3,0L<br/>Dung tích bình xăng: 15,4L<br/>Mức tiêu thụ nhiên liệu: 4,58L/100km<br/>Lốp trước: 120/70-ZR17<br/>Lốp sau: 180/55-ZR17<br/>Phuộc trước: Giảm xóc hành trình ngược Showa SFF-BP, 41mm<br/>Phuộc sau: Lò xo trụ đơn và tải trước có 10 cấp điều chỉnh<br/>Phanh trước: Phanh đĩa<br/>Phanh sau: Phanh đĩa"
+          },          
+          {
+            "id": 70,
+            "name": "Jaguar XF 2.0P 200PS 2019",
+            "price": 933000000,
+            "imageLink": "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201901.jpg",
+            "imagePath": [
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201901.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201902.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201903.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201904.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201905.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201906.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201907.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201908.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201909.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201910.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201911.jpg",
+                "images/itemImg/Jaguar XF 2.0P 200PS 2019/Jaguar XF 2.0P 200PS 201913.jpg" 
+            ],
+            "shortDesc": "Dáng Xe : Sedan Số chỗ ngồi : 5 Số cửa sổ : 4.00 Kiểu động cơ : Dung tích động c<br/>Dáng Xe : Sedan <br/>Số chỗ ngồi : 5 <br/>Số cửa sổ : 4.00 <br/>Kiểu động cơ : <br/>Dung tích động cơ : 2.00L <br/>Công suất cực đại : 200.00 mã lực , tại 5500.00 vòng/phút <br/>Momen xoắn cực đại : 236.00 Nm , tại 2000-4000 vòng/phút <br/>Hộp số : 8.00 cấp <br/>Kiểu dẫn động : "
+          },
+          {
+            "id": 71,
+            "name": "Kawasaki Vulcan S",
+            "price": 80000000,
+            "imageLink": "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S01.jpg",
+            "imagePath": [
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S01.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S02.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S03.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S04.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S05.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S06.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S07.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S08.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S09.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S10.jpg",
+                "images/itemImg/Kawasaki Vulcan S/Kawasaki Vulcan S11.jpg" 
+            ],
+            "shortDesc": "Thương hiệu : Kawasaki <br/>Dòng xe : Kawasaki Vulcan S<br/>Công suất tối đa ( PS ) : 30.3 hp <br/>Năm sản suất : 2021 <br/>Loại động cơ : Parallel Twin,4-Stroke, Liquid Cooled, DOHC Engine <br/>Bắt đầu các tùy chọn : Electric <br/>Loại : Cruiser <br/>Kiểu truyền tải : Manual <br/>Loại nhiên liệu : Xăng <br/>ĐỘNG CƠ VÀ HIỆU SUẤT <br/>Tốc độ tối đa : 170kmph <br/>Mô-men xoắn cực đại RPM : 6500 rpm <br/>Số xi lanh : 2 <br/>Công suất tối đa RPM ( RPM ) : 7500 rpm <br/>Mô-men xoắn cực đại ( Nm ) : 64 Nm <br/>Số kì : 4-Stroke <br/>Dung tích ( cc ) : 649<br/>Dung tích bình xăng : 14L <br/>BÁNH RĂNG VÀ HỘP SỐ <br/>Hộp số : 6-Kecepatan <br/>LOẠI KHUNG VÀ HỆ THỐNG TREO <br/>Khoảng sáng gầm xe : 130 mm<br/>Chiều cao yên : 705 mm <br/>Hệ thống treo sau : Swing Arm <br/>Hệ thống treo trước : Telescopic Fork "
+          },
+          {
+            "id": 72,
+            "name": "CB500X 2023",
+            "price": 70000000,
+            "imageLink": "images/itemImg/CB500X 2023/CB500X 20231.jpg",
+            "imagePath": [
+                "images/itemImg/CB500X 2023/CB500X 20231.jpg",
+                "images/itemImg/CB500X 2023/CB500X 20232.jpg",
+                "images/itemImg/CB500X 2023/CB500X 20233.jpg",
+                "images/itemImg/CB500X 2023/CB500X 20234.jpg",
+                "images/itemImg/CB500X 2023/CB500X 20235.jpg",
+                "images/itemImg/CB500X 2023/CB500X 20236.jpg" 
+            ],
+            "shortDesc": "Khối lượng bản thân:199 kg<br/>Dài x Rộng x Cao:2.155 mm x 830 mm x 1.410 mm<br/>Khoảng cách trục bánh xe:1.445 mm<br/>Độ cao yên:830 mm<br/>Khoảng sáng gầm xe:180 mm<br/>Dung tích bình xăng:17,5 lít<br/>Kích cỡ lớp trước/ sau:Lốp trước: 110/80R19 Lốp sau: 160/60R17<br/>Phuộc trước: Hành trình ngược Showa SFF-BP 41mm<br/>Phuộc sau: Lò xo trụ đơn, giảm chấn thủy lực, 5 cấp độ điều chỉnh tải trước lò xo<br/>Loại động cơ: 4kỳ, 2 xy-lanh, làm mát bằng chất lỏng<br/>Công suất tối đa: 35 kW tại 8.600 vòng/phút<br/>Dung tích nhớt máy: Sau khi xả: 2,4 lít  Sau khi xả và thay lọc nhớt động cơ: 2,6 lít<br/>Mức tiêu thụ nhiên liệu:3,59 lít/100 km<br/>Hộp số: 6 cấp<br/>Loại truyền động: Côn tay 6 số<br/>Hệ thống khởi động:  Điện<br/>Moment cực đại: 43 Nm tại 6.500 vòng/phút<br/>Dung tích xy-lanh: 471 cc<br/>Đường kính x Hành trình pít tông: 67,0 mm x 66,8 mm<br/>Tỷ số nén:10,7:1"
+          },
+          {
+            "id": 73,
+            "name": "Continental GT 650",
+            "price": 144000000,
+            "imageLink": "images/itemImg/Continental GT 650/Continental GT 65001.jpg",
+            "imagePath": [
+                "images/itemImg/Continental GT 650/Continental GT 65001.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65002.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65003.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65004.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65005.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65006.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65007.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65008.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65009.jpg",
+                "images/itemImg/Continental GT 650/Continental GT 65010.jpg" 
+            ],
+            "shortDesc": "THÔNG SỐ KỸ THUẬT <br/>Thương hiệu : Royal Enfield <br/>Dòng xe : Royal Enfield Continental GT 650<br/>Công suất tối đa ( PS ) : 47 hp <br/>Năm sản suất : 2021 <br/>Loại động cơ : Single Cylinder, 4-Stroke, 4-Valve, Liquid Cooled SOHC Engine<br/>Bắt đầu các tùy chọn : Electric <br/>Loại : Street <br/>Mức tiêu thụ nhiên liệu : 3.33L/100km <br/>Kiểu truyền tải : Manual <br/>Loại nhiên liệu : Xăng <br/>Tốc độ tối đa : 180kmph <br/>Mô-men xoắn cực đại RPM : 5250 rpm <br/>Số xi lanh : 2 <br/>Công suất tối da RPM : 7250 rpm <br/>Mô-men xoắn cực đại ( Nm ) : 52 Nm <br/>Số kì : 4-Stroke <br/>Dung tích ( cc ) : 648 Dài : 2122 mm <br/>Cao : 1024 mm <br/>Rộng : 744 mm <br/>Trọng lượng : 198 kg <br/>Yên xe : 1 <br/>Dung tích bình xăng : 13.5L <br/>BÁNH RĂNG VÀ HỘP SỐ <br/>Hộp số : 6-Kecepatan <br/>LOẠI KHUNG VÀ HỆ THỐNG TREO <br/>Khoảng sáng gầm xe : 174 mm <br/>Chiều cao yên : 793 mm <br/>Hệ thống treo sau : Twin Coil-Over Shock<br/>Hệ thống treo trước : Front Fork<br/>Kích thước bánh sau : R18 <br/>Kích thước bánh trước : R18 <br/>Lốp trước : 100/90 R18 <br/>Lốp sau : 130/70 R18 <br/>Loại lốp : Radial tire "
+          },
+          {
+            "id": 74,
+            "name": "Mercedes-Maybach GLS600",
+            "price": 3873000000,
+            "imageLink": "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60001.jpg",
+            "imagePath": [
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60001.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60002.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60003.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60004.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60005.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60006.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60007.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60008.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60009.jpg",
+                "images/itemImg/Mercedes-Maybach GLS600/Mercedes-Maybach GLS60010.jpg" 
+            ],
+            "shortDesc": "Danh Mục  Mercedes-Maybach GLS600<br/>Kiểu dáng xe  SUV / Hạng Sang<br/>Chiều dài cơ sở  3.135mm<br/>Chiều Dài x Rộng x Cao  5205 x 2030 x 1838 (mm)<br/>Khoảng sáng gầm xe  Đang cập nhật<br/>Động cơ  V8<br/>Dung tích  4.0L<br/>Công suất cực đại  <br/>410 kW [557 hp] tại 6000 - 6500 vòng/phút<br/>Mô-men xoắn cực đại (Nm tại vòng/phút)  730 Nm tại 2500 - 4500 vòng/phút<br/>Tăng tốc 0 -100 km/h (s)  4,9 (giây)<br/>Vận tốc tối đa (km/h)  250 (km/h)<br/>Dẫn động  4 bánh toàn thời gian 4MATIC<br/>Hộp số  9G-TRONIC<br/>Loại nhiên liệu  <br/>Xăng không chì có trị số octane 95 hoặc cao hơn"
+          },
+          {
+            "id": 75,
+            "name": "Sonic 150",
+            "price": 41000000,
+            "imageLink": "images/itemImg/sonic 150/sonic 1501.jpg",
+            "imagePath": [
+                "images/itemImg/sonic 150/sonic 1501.jpg",
+                "images/itemImg/sonic 150/sonic 1502.jpg",
+                "images/itemImg/sonic 150/sonic 1503.jpg",
+                "images/itemImg/sonic 150/sonic 1504.jpg",
+                "images/itemImg/sonic 150/sonic 1505.jpg" 
+            ],
+            "shortDesc": "Thông số kỹ thuật xe Honda Sonic 150R mới nhất<br/>Các thông số Giá trị<br/>Trọng lượng 114 kg<br/>Dài x Rộng x Cao1.941 x 669 x 977 mm<br/>Chiều dài cơ sở 1.275 mm<br/>Chiều cao yên 762 mm<br/>Khoảng sáng gầm xe140 mm<br/>Dung tích bình xăng 4 lít<br/>Kích thước lốp<br/>trước/sau Trước: 70/90-17 38P<br/>Phuộc trước Ống lồng, giảm chấn thủy lực<br/>Phuộc sau Lò xo trụ đơn, giảm chấn thủy lực<br/>Loại động cơ 4 thì, 1 xy-lanh, DOHC, 4 van, làm mát bằng dung dịch<br/>Dung tích xy-lanh 149.16 cc<br/>Đường kính x hành trình pít-tông 57.3 x 57.8 mm<br/>Tỉ số nén 11.3 : 1<br/>Công suất tối đa 16 mã lực tại tua máy 9.000 vòng/phút<br/>Mô Men xoắn cực đại13,5 Nm tại tua máy 6.500 vòng/phút<br/>Hộp số 1 – N – 2 – 3 – 4 – 5 – 6<br/>Hệ thống khởi động Điện"
+          },
+          {
+            "id": 76,
+            "name": "Royal Enfield Bullet 500",
+            "price": 52000000,
+            "imageLink": "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50001.jpg",
+            "imagePath": [
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50001.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50002.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50003.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50004.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50005.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50006.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50007.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50008.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50009.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50010.jpg",
+                "images/itemImg/Royal Enfield Bullet 500/Royal Enfield Bullet 50011.jpg" 
+            ],
+            "shortDesc": "Số chỗ ngồi: 2<br/>Đồng hồ / Màn hình xe: LCD<br/>Động cơ: Máy xăng DOHC 2 xy-lanh 4 kỳ<br/>Hệ thống cung cấp nhiên liệu: Phun xăng điện tử<br/>Hệ thống làm mát: Dung dịch làm mát<br/>Hộp số: 6 cấp<br/>Dung tích xy-lanh: 500cc<br/>Đường kính pít tông: 67mm<br/>Hành trình pít tông: 66,8mm<br/>Tỷ số nén: 10,7:1<br/>Công suất tối đa: 34kW tại 8500rpm<br/>Mô men xoắn cực đại: 43,2Nm tại 6500rpm<br/>Hệ thống khởi động: Điện<br/>Dung tích nhớt máy: 2,7L<br/>Dung tích bình xăng: 11,2L<br/>Mức tiêu thụ nhiên liệu: 3,7L/100km<br/>Lốp trước: 130/90-16<br/>Lốp sau: 150/80-16<br/>Phuộc trước: Ống lồng, Giảm chấn thủy lực<br/>Phuộc sau: 2 lò xo trụ, Giảm chấn thủy lực<br/>Phanh trước: Phanh đĩa, Tích hợp ABS<br/>Phanh sau: Phanh đĩa, Tích hợp ABS"
+          },      
+          {
+            "id": 77,
+            "name": "XPANDER CROSS 1.5 2021",
+            "price": 232000000,
+            "imageLink": "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202101.jpg",
+            "imagePath": [
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202101.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202102.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202103.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202104.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202105.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202106.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202107.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202108.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202109.jpg",
+                "images/itemImg/XPANDER CROSS 1.5 2021/XPANDER CROSS 1.5 202110.jpg" 
+            ],
+            "shortDesc": "Động cơ/hộp số<br/>Kiểu động cơ: MIVEC 1.5 i4<br/>Dung tích (cc): 1,499<br/>Công suất (mã lực)/vòng tua (vòng/phút): 104/6000<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 141/4000<br/>Hộp số: 4AT<br/>Hệ dẫn động: FWD<br/>Loại nhiên liệu: Xăng<br/>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 6,9<br/>Kích thước/trọng lượng<br/>Số chỗ: 7<br/>Kích thước dài x rộng x cao (mm): 4500x1800x1750<br/>Chiều dài cơ sở (mm): 2.775<br/>Khoảng sáng gầm (mm): 225<br/>Bán kính vòng quay (mm): 5,2<br/>Dung tích bình nhiên liệu (lít): 45<br/>Trọng lượng bản thân (kg): 1.250<br/>Lốp, la-zăng: 205/55R17"
+          },
+          {
+            "id": 78,
+            "name": "GLS450 4Matic 2021",
+            "price": 1749000000,
+            "imageLink": "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202101.jpg",
+            "imagePath": [
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202101.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202102.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202103.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202104.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202105.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202106.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202107.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202108.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202109.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202110.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202111.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202112.jpg",
+                "images/itemImg/GLS450 4Matic 2021/GLS450 4Matic 202113.jpg"                 
+            ],
+            "shortDesc": "Động cơ/hộp số<br/>Kiểu động cơ: I6 3.0<br/>Dung tích (cc): 2.999<br/>Công suất (mã lực)/vòng tua (vòng/phút): 367hp tại 5500-6100 vòng/phút<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút): 500/1600-4500<br/>Hộp số: Tự động 9 cấp 9G-TRONIC<br/>Hệ dẫn động: 4 bánh toàn thời gian 4MATIC<br/>Loại nhiên liệu: Xăng<br/>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km): 11,79<br/>Kích thước/trọng lượng<br/>Số chỗ: 7<br/>Kích thước dài x rộng x cao (mm): 5226x2030x1845<br/>Chiều dài cơ sở (mm): 3.135<br/>Trọng lượng bản thân (kg): 2.460<br/>Trọng lượng toàn tải (kg): 3.340"
+          },
+          {
+            "id": 79,
+            "name": "Suzuki Ertiga AT 2022",
+            "price": 202666000,
+            "imageLink": "images/itemImg/Suzuki Ertiga AT 2022/Suzuki Ertiga AT 20221.jpg",
+            "imagePath": [
+                "images/itemImg/Suzuki Ertiga AT 2022/Suzuki Ertiga AT 20221.jpg",
+                "images/itemImg/Suzuki Ertiga AT 2022/Suzuki Ertiga AT 20222.jpg",
+                "images/itemImg/Suzuki Ertiga AT 2022/Suzuki Ertiga AT 20223.jpg",
+                "images/itemImg/Suzuki Ertiga AT 2022/Suzuki Ertiga AT 20224.jpg",
+                "images/itemImg/Suzuki Ertiga AT 2022/Suzuki Ertiga AT 20225.jpg"   
+            ],
+            "shortDesc": "Kiểu động cơ : K15B<br/>Dung tích (cc) : 1.462<br/>Công suất (mã lực)/vòng tua (vòng/phút) : 104,7/6.000<br/>Mô-men xoắn (Nm)/vòng tua (vòng/phút) : 138/4.000<br/>Hộp số : 5MT<br/>Hệ dẫn động : 2WD<br/>Loại nhiên liệu : Xăng<br/>Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km) : 5,38<br/>Loại pin : Lithium<br/>Dung lượng pin : 6Ah 12V<br/>Thể tích khoang hành lý (lít) : 803<br/>Dung tích bình nhiên liệu (lít) : 45<br/>Trọng lượng bản thân (kg) : 1.140<br/>Lốp, la-zăng : 185/65 R15 + mâm đúc hợp kim<br/>Số chỗ : 7<br/>Kích thước dài x rộng x cao (mm) : 4.395 x 1.735 x 1.690<br/>Chiều dài cơ sở (mm) : 2.740<br/>Khoảng sáng gầm (mm) : 180<br/>Bán kính vòng quay (mm) : 5,2<br/>Xuất xứ : Indonesia<br/>Tên xe :  Suzuki Ertiga Hybrid Ertiga AT 2022"
+          },
+          {
+            "id": 80,
+            "name": "CRV - 2022",
+            "price": 357000000,
+            "imageLink": "images/itemImg/CRV - 2022/CRV - 202201.jpg",
+            "imagePath": [
+                "images/itemImg/CRV - 2022/CRV - 202201.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202202.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202203.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202204.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202205.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202206.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202207.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202208.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202209.jpg",
+                "images/itemImg/CRV - 2022/CRV - 202210.jpg" 
+            ],
+            "shortDesc": "Xuất xứ Nhập khẩu Nhật Bản <br/>Tình trạng Mới<br/>Dòng xe SUV<br/>Màu ngoại thất Trắng<br/>Số cửa 5 cửa<br/>Số ghế 7 ghế<br/>Nhiên liệu Xăng<br/>Hộp số tự động<br/>Dẫn động FWD - Dẫn động cầu trước"
+          }
     ]
 }
