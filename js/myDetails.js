@@ -80,47 +80,16 @@ document.addEventListener("DOMContentLoaded", function () {
             </div>
           </div>
           <div class="row">
-            <div class="col-lg-8 col-xs-12">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4>Thông tin chi tiết sản phẩm</h4>
-                </div>
-                <div class="panel-body">
-                  <p>
-                    ${item.shortDesc}
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-xs-12">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4>Thông tin liên hệ</h4>
-                </div>
-                <div class="panel-body">
-                  <p>
-                    <span>Tên</span>
-                    <br />
-                    <strong>Nguyễn Văn A</strong>
-                  </p>
-                  <p>
-                    <span>Hotline</span>
-                    <br />
-                    <strong><a href="tel:123-456-789">123-456-789</a></strong>
-                  </p>
-                  <p>
-                    <span>Di động</span>
-                    <br />
-                    <strong><a href="tel:456789123">456789123</a></strong>
-                  </p>
-                  <p>
-                    <span>Mail</span>
-                    <br />
-                    <strong><a href="mailto:nguyenvana@carsales.com">nguyenvana@carsales.com</a></strong>
-                  </p>
-                </div>
-              </div>
-            </div>
+          <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4>Thông tin chi tiết sản phẩm</h4>
+          </div>
+          <div class="panel-body">
+            <p>
+              ${item.shortDesc}
+            </p>
+          </div>
+        </div>
           </div>
         `;
       itemShowList.appendChild(newDiv);
