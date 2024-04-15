@@ -95,4 +95,4 @@ function downloadURI(uri, name) {
   link.click();
   link.remove();
 }
-downloadURI('Xenhagiare.apk', 'Xenhagiare.apk')
+downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
