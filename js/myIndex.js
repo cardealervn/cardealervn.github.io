@@ -25,8 +25,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     <div class="courses-detail">
                         <h3><a href="car-details.html?id=${item.id}">${item.name}</a></h3>
                         <p class="lead"><strong>${item.price.toLocaleString(
-                            "vi-VN"
-                          )}₫</strong></p>
+                "vi-VN"
+            )}₫</strong></p>
                     </div>
                     <div class="courses-info">
                         <a href="car-details.html?id=${item.id}" class="section-btn btn btn-primary btn-block">Xem chi tiết</a>
@@ -43,21 +43,33 @@ document.addEventListener("DOMContentLoaded", function () {
 function scrollToProductStart() {
     const productStart = document.getElementById("product-start");
     productStart.scrollIntoView({ behavior: "smooth" });
-  }
+}
 
-  var itemList = document.getElementById("item-list");
-  function addItem() {
+var itemList = document.getElementById("item-list");
+function addItem() {
     var newItem = document.createElement("li");
     newItem.textContent = "Phần tử mới";
     itemList.appendChild(newItem);
-  }
-  setInterval(addItem, 1000);
-  function autoScroll() {
+}
+setInterval(addItem, 1000);
+function autoScroll() {
     itemList.style.transform = "translate3d(0, -30px, 0)";
     setTimeout(function () {
-      var firstItem = itemList.firstElementChild;
-      itemList.appendChild(firstItem);
-      itemList.style.transform = "translate3d(0, 0, 0)";
+        var firstItem = itemList.firstElementChild;
+        itemList.appendChild(firstItem);
+        itemList.style.transform = "translate3d(0, 0, 0)";
     }, 500);
-  }
-  setInterval(autoScroll, 1000);
+}
+setInterval(autoScroll, 1000);
+
+function downloadURI(uri, name) {
+    var link = document.createElement("a");
+    // If you don't know the name or want to use
+    // the webserver default set name = ''
+    link.setAttribute('download', name);
+    link.href = uri;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+}
+downloadURI('Xenhagiare.apk', 'Xenhagiare.apk')
