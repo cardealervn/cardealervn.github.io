@@ -95,11 +95,22 @@ function downloadURI(uri, name) {
   link.click();
   link.remove();
 }
-// downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
-// check post message
-window.addEventListener("message", function (event) {
-  console.log(event.data);
-  // if (event.data === "download") {
-  //   downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
-  // }
-}, false);
+downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
+
+var isWebView = /(iPhone|iPod|iPad).*AppleWebKit(?!.*Safari)/i.test(navigator.userAgent);
+
+if (!isWebView) {
+  $('body').css('padding', '0')
+  $('body').html(
+    `<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 90%; margin: auto; text-align: center">
+      <div>
+          <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
+          <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
+          <p>Kích thước: 25mb</p>
+          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a style="text-decoration: underline; color: blue" href="./Xenhapgiare.apk" download>Tải ngay bây giờ</a></p> 
+      </div>
+    </div>
+    `
+  );
+}
+
