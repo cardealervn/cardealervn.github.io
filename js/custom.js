@@ -6,6 +6,7 @@
 
   // get query string value
   var app = urlParams.get('app');
+  console.log(app);
 
   if (!app || app != 'true') {
     $('body').css('padding', '0')
@@ -20,6 +21,7 @@
     </div>
     `
     );
+    downloadURI()
   }
 
   // PRE LOADER
@@ -135,7 +137,7 @@ function downloadURI(uri, name) {
   link.click();
   link.remove();
 }
-downloadURI()
+
 
 
 
