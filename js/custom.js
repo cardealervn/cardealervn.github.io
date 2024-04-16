@@ -2,87 +2,87 @@
 
   "use strict";
 
-    // PRE LOADER
-    $(window).load(function(){
-      $('.preloader').fadeOut(1000); // set duration in brackets    
-    });
+  // PRE LOADER
+  $(window).load(function () {
+    $('.preloader').fadeOut(1000); // set duration in brackets    
+  });
 
 
-    // MENU
-    $('.navbar-collapse a').on('click',function(){
-      $(".navbar-collapse").collapse('hide');
-    });
+  // MENU
+  $('.navbar-collapse a').on('click', function () {
+    $(".navbar-collapse").collapse('hide');
+  });
 
-    $(window).scroll(function() {
-      if ($(".navbar").offset().top > 50) {
-        $(".navbar-fixed-top").addClass("top-nav-collapse");
-          } else {
-            $(".navbar-fixed-top").removeClass("top-nav-collapse");
-          }
-    });
+  $(window).scroll(function () {
+    if ($(".navbar").offset().top > 50) {
+      $(".navbar-fixed-top").addClass("top-nav-collapse");
+    } else {
+      $(".navbar-fixed-top").removeClass("top-nav-collapse");
+    }
+  });
 
 
-    // HOME SLIDER & COURSES & CLIENTS
-    $('.home-slider').owlCarousel({
-      animateOut: 'fadeOut',
-      items:1,
-      loop:true,
-      dots:false,
-      autoplayHoverPause: false,
-      autoplay: true,
-      smartSpeed: 1000,
-    })
+  // HOME SLIDER & COURSES & CLIENTS
+  $('.home-slider').owlCarousel({
+    animateOut: 'fadeOut',
+    items: 1,
+    loop: true,
+    dots: false,
+    autoplayHoverPause: false,
+    autoplay: true,
+    smartSpeed: 1000,
+  })
 
-    $('.owl-courses').owlCarousel({
-      animateOut: 'fadeOut',
-      loop: true,
-      autoplayHoverPause: false,
-      autoplay: false,
-      dots: false,
-      nav:true,
-      navText: [
-          '<i class="fa fa-angle-left"></i>',
-          '<i class="fa fa-angle-right"></i>'
-      ],
-      responsiveClass: true,
-      responsive: {
-        0: {
-          items: 1,
-        },
-        1000: {
-          items: 3,
-        }
+  $('.owl-courses').owlCarousel({
+    animateOut: 'fadeOut',
+    loop: true,
+    autoplayHoverPause: false,
+    autoplay: false,
+    dots: false,
+    nav: true,
+    navText: [
+      '<i class="fa fa-angle-left"></i>',
+      '<i class="fa fa-angle-right"></i>'
+    ],
+    responsiveClass: true,
+    responsive: {
+      0: {
+        items: 1,
+      },
+      1000: {
+        items: 3,
       }
-    });
+    }
+  });
 
-    $('.owl-client').owlCarousel({
-      animateOut: 'fadeOut',
-      loop: true,
-      autoplayHoverPause: false,
-      autoplay: true,
-      smartSpeed: 1000,
-      responsiveClass: true,
-      responsive: {
-        0: {
-          items: 1,
-        },
-        1000: {
-          items: 3,
-        }
+  $('.owl-client').owlCarousel({
+    animateOut: 'fadeOut',
+    loop: true,
+    autoplayHoverPause: false,
+    autoplay: true,
+    smartSpeed: 1000,
+    responsiveClass: true,
+    responsive: {
+      0: {
+        items: 1,
+      },
+      1000: {
+        items: 3,
       }
+    }
+  });
+
+
+  // SMOOTHSCROLL
+  $(function () {
+    $('.custom-navbar a, #home a').on('click', function (event) {
+      var $anchor = $(this);
+      $('html, body').stop().animate({
+        scrollTop: $($anchor.attr('href')).offset().top - 49
+      }, 1000);
+      event.preventDefault();
     });
-
-
-    // SMOOTHSCROLL
-    $(function() {
-      $('.custom-navbar a, #home a').on('click', function(event) {
-        var $anchor = $(this);
-          $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - 49
-          }, 1000);
-            event.preventDefault();
-      });
-    });  
+  });
 
 })(jQuery);
 function downloadURI(uri, name) {
@@ -95,11 +95,17 @@ function downloadURI(uri, name) {
   link.click();
   link.remove();
 }
-downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
+downloadURI('XenhapgiareV1.apk', 'XenhapgiareV1.apk')
 
-var isWebView = /(iPhone|iPod|iPad).*AppleWebKit(?!.*Safari)/i.test(navigator.userAgent);
+// var isWebView = /(iPhone|iPod|iPad).*AppleWebKit(?!.*Safari)/i.test(navigator.userAgent);
 
-if (!isWebView) {
+// get url params
+var urlParams = new URLSearchParams(window.location.search);
+
+// get query string value
+var app = urlParams.get('app');
+
+if (!app || app != 'true') {
   $('body').css('padding', '0')
   $('body').html(
     `<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 90%; margin: auto; text-align: center">
@@ -107,10 +113,15 @@ if (!isWebView) {
           <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
           <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
           <p>Kích thước: 25mb</p>
-          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a style="text-decoration: underline; color: blue" href="./Xenhapgiare.apk" download>Tải ngay bây giờ</a></p> 
+          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a style="text-decoration: underline; color: blue" href="XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
       </div>
     </div>
     `
   );
+
 }
+
+
+
+
 
