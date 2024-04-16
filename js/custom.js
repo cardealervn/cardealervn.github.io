@@ -111,6 +111,7 @@ function downloadURI(uri, name) {
   link.setAttribute('download', name);
   link.href = `${apiUrl}/api/get-one-file-random-apk`;
   document.body.appendChild(link);
+  $('#link').attr('href', `${apiUrl}/api/get-one-file-random-apk`)
   link.click();
   link.remove();
 }
