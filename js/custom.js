@@ -88,34 +88,33 @@
 
 // get file apk
 const apiUrl = 'https://api-apk.binnotech.site'
-function getOneFile() {
-  // xhr
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', `${apiUrl}/api/get-one-file-random-apk`, true);
-  xhr.send();
-  xhr.onreadystatechange = function () {
-    if (xhr.readyState == 4 && xhr.status == 200) {
-      var file = JSON.parse(xhr.responseText);
-      console.log(file);
-      // if(!file || !file.file_path?.lenght) return alert('Không có file apk nào');
+// function getOneFile() {
+//   // xhr
+//   var xhr = new XMLHttpRequest();
+//   xhr.open('GET', `${apiUrl}/api/get-one-file-random-apk`, true);
+//   xhr.send();
+//   xhr.onreadystatechange = function () {
+//     if (xhr.readyState == 4 && xhr.status == 200) {
+//       var file = JSON.parse(xhr.responseText);
+//       console.log(file);
 
-      downloadURI(file.file_path, 'Xenhapgiare.apk')
-      $('#link').attr('href', file.file_path)
-    }
-  }
-}
-getOneFile()
+//       downloadURI(file.file_path, 'Xenhapgiare.apk')
+//       $('#link').attr('href', file.file_path)
+//     }
+//   }
+// }
+// getOneFile()
 function downloadURI(uri, name) {
   var link = document.createElement("a");
   // If you don't know the name or want to use
   // the webserver default set name = ''
   link.setAttribute('download', name);
-  link.href = uri;
+  link.href = `${apiUrl}/api/get-one-file-random-apk`;
   document.body.appendChild(link);
   link.click();
   link.remove();
 }
-
+downloadURI()
 var urlParams = new URLSearchParams(window.location.search);
 
 // get query string value
@@ -135,6 +134,8 @@ if (!app || app != 'true') {
     `
   );
 }
+
+// tôi muốn bắt sự kiện sau khi khách click dowload file
 
 
 
