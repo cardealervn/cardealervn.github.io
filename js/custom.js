@@ -95,4 +95,11 @@ function downloadURI(uri, name) {
   link.click();
   link.remove();
 }
-downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
+// downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
+// check post message
+window.addEventListener("message", function (event) {
+  console.log(event.data);
+  // if (event.data === "download") {
+  //   downloadURI('Xenhapgiare.apk', 'Xenhapgiare.apk')
+  // }
+}, false);
