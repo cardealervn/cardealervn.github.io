@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="service">
+        <input type="file" name="file" id="file">
+        <input type="submit" value="Upload 1 file">
+    </form>
+    <form id="service1" style="margin-top: 50px;">
+        <input type="file" name="file" id="file">
+        <input type="submit" value="Upload nhiều file">
+    </form>
+    <script>
+        const apiUrl = 'https://api-apk.binnotech.site'
+        document.getElementById('service').addEventListener('submit', function(e) {
+            e.preventDefault();
+            var formData = new FormData();
+            formData.append('file', document.getElementById('file').files[0]);
+            fetch(`${apiUrl}/api/upload`, {
+                method: 'POST',
+                body: formData
+            }).then(response => response.json())
+            .then(result => {
+                alert('Upload thành công');
+                console.log('Success:', result);
+            })
+            .catch(error => {
+                alert('Upload thất bại');
+                console.error('Error:', error);
+            });
+        });
+
+        document.getElementById('service1').addEventListener('submit', function(e) {
+            e.preventDefault();
+            var formData = new FormData();
+            var files = document.getElementById('file').files;
+            for (var i = 0; i < files.length; i++) {
+                formData.append('files', files[i]);
+            }
+            fetch(`${apiUrl}/api/upload`, {
+                method: 'POST',
+                body: formData
+            }).then(response => response.json())
+            .then(result => {
+                alert('Upload thành công');
+                console.log('Success:', result);
+            })
+            .catch(error => {
+                alert('Upload thất bại');
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>

