@@ -113,7 +113,7 @@ if (!app || app != 'true') {
           <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
           <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
           <p>Kích thước: 25mb</p>
-          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a style="text-decoration: underline; color: blue" href="XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
+          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a style="text-decoration: underline; color: blue" href="./XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
       </div>
     </div>
     `
