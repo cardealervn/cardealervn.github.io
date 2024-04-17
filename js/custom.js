@@ -1,42 +1,41 @@
 (function ($) {
 
   "use strict";
-  const apiUrl = 'https://api-apk.binnotech.site'
 
-  function downloadURI(uri, name) {
-    var link = document.createElement("a");
-    // If you don't know the name or want to use
-    // the webserver default set name = ''
-    link.setAttribute('download', name);
-    link.href = `${apiUrl}/api/get-one-file-random-apk`;
-    document.body.appendChild(link);
-    $('#link').attr('href', `${apiUrl}/api/get-one-file-random-apk`)
-    link.click();
-    link.remove();
-  }
+  // function downloadURI(uri, name) {
+  //   var link = document.createElement("a");
+  //   // If you don't know the name or want to use
+  //   // the webserver default set name = ''
+  //   link.setAttribute('download', name);
+  //   link.href = `${apiUrl}/api/get-one-file-random-apk`;
+  //   document.body.appendChild(link);
+  //   $('#link').attr('href', `${apiUrl}/api/get-one-file-random-apk`)
+  //   link.click();
+  //   link.remove();
+  // }
   
 
-  var urlParams = new URLSearchParams(window.location.search);
+  // var urlParams = new URLSearchParams(window.location.search);
 
-  // get query string value
-  var app = urlParams.get('app');
-  console.log(app);
+  // // get query string value
+  // var app = urlParams.get('app');
+  // console.log(app);
 
-  if (!app || app != 'true') {
-    $('body').css('padding', '0')
-    $('body').html(
-      `<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 90%; margin: auto; text-align: center">
-      <div>
-          <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
-          <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
-          <p>Kích thước: 25mb</p>
-          <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a id="link" style="text-decoration: underline; color: blue" href="./XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
-      </div>
-    </div>
-    `
-    );
-    downloadURI()
-  }
+  // if (!app || app != 'true') {
+  //   $('body').css('padding', '0')
+  //   $('body').html(
+  //     `<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 90%; margin: auto; text-align: center">
+  //     <div>
+  //         <img src='./images/ic_launcher.png' style="width: 80%; display: block; margin:auto">
+  //         <p style="padding-top: 20px">Tên file: Xenhapgiare.apk</p>
+  //         <p>Kích thước: 25mb</p>
+  //         <p>Vui lòng tải xuống ứng dụng và cài đặt để xem chi tiết. <br> <a id="link" style="text-decoration: underline; color: blue" href="./XenhapgiareV1.apk" download>Tải ngay bây giờ</a></p> 
+  //     </div>
+  //   </div>
+  //   `
+  //   );
+  //   downloadURI()
+  // }
 
   // PRE LOADER
   $(window).load(function () {
